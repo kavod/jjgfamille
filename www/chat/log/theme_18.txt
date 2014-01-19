@@ -1,0 +1,663 @@
+[jeu jan 26 2006] [22:01:23] <ComNet_>	re tout le monde
+[jeu jan 26 2006] [22:01:25] <Mady>	okkkkkkkkkkkk
+[jeu jan 26 2006] [22:01:27] <Aurelie-Ptitchou>	BORIS !
+[jeu jan 26 2006] [22:01:31] <Mady>	5
+[jeu jan 26 2006] [22:01:31] <Mady>	4
+[jeu jan 26 2006] [22:01:31] <Aurelie-Ptitchou>	chuuuuuuuuuuuuuut
+[jeu jan 26 2006] [22:01:32] <Mady>	3
+[jeu jan 26 2006] [22:01:35] <Mady>	2
+[jeu jan 26 2006] [22:01:35] <Mady>	1
+[jeu jan 26 2006] [22:01:35] <ComNet_>	mais g changer de pseudo pk i lchange pas
+[jeu jan 26 2006] [22:01:36] <Aurelie-Ptitchou>	chuuuut toujours
+[jeu jan 26 2006] [22:01:36] <Boris_Kavod>	Tout d'abord, merci à tous d'etre au rendez-vous ! :)
+[jeu jan 26 2006] [22:01:46] <JohnBaube>	service
+[jeu jan 26 2006] [22:01:54] <Boris_Kavod>	Nous allons donc parler ce soir de l'épineux sujet des droits d'auteurs...
+[jeu jan 26 2006] [22:01:54] <JohnBaube>	oups faut pas interrompre :p
+[jeu jan 26 2006] [22:02:04] Quitter	ComNet_ a quitté le serveur. (Quit: Leaving)
+[jeu jan 26 2006] [22:02:12] Joindre	ComNet_ a rejoint le canal. (~ComNet@Wnet-wqilv5.154.218)
+[jeu jan 26 2006] [22:02:19] <Boris_Kavod>	sujet qui nous concerne triplement en tant que goldmanien internaute écoutant de la musique...
+[jeu jan 26 2006] [22:02:35] <Mady>	quadruplement
+[jeu jan 26 2006] [22:02:42] <Mady>	si on ajoute nos opinions politiques :)
+[jeu jan 26 2006] [22:02:43] <Boris_Kavod>	Premièrement en tant qu'amateur de musique car consommateur de disques... et donc de droits d'auteurs
+[jeu jan 26 2006] [22:02:53] Quitter	Ensemble a quitté le serveur. (Client closed connection)
+[jeu jan 26 2006] [22:03:00] Pseudo	ComNet_ est maintenant connu sous le nom de Ensemble.
+[jeu jan 26 2006] [22:03:02] <Pierre>	Une définition de ce qu'est le droit d'auteur serait interessante alors
+[jeu jan 26 2006] [22:03:03] <Ensemble>	ahhhh
+[jeu jan 26 2006] [22:03:08] <Boris_Kavod>	Internaute, car ce sujet est entré dans l'actualité dernièrement à la suite de l'émergence du haut-débit
+[jeu jan 26 2006] [22:03:30] Quitter	cerise a quitté le serveur. (Quit: cerise)
+[jeu jan 26 2006] [22:03:32] <Boris_Kavod>	Et goldmanien suite à la table ronde organisée par Nicolas Sarkozy où Goldman était présent
+[jeu jan 26 2006] [22:03:36] Joindre	manolita a rejoint le canal. (manolita@Wnet-wwdnl0.proxad.net)
+[jeu jan 26 2006] [22:03:51] <Boris_Kavod>	Bon, définition du droit d'auteur... tu veux t'en charger Pierre  ? :)
+[jeu jan 26 2006] [22:04:03] <JohnBaube>	google : define:droits d'auteru
+[jeu jan 26 2006] [22:04:35] <JohnBaube>	droits légaux d'utilisation, commercialisation, location, cession, diffusion et de reproduction (copyright) d'une œuvre originale, quel que soit son support.
+[jeu jan 26 2006] [22:04:49] <Pierre>	merci
+[jeu jan 26 2006] [22:04:51] <Boris_Kavod>	voilà... reversé à l'auteur, le compositeur, souvent l'interprète
+[jeu jan 26 2006] [22:05:17] <Boris_Kavod>	Pour resituer l'actualité...
+[jeu jan 26 2006] [22:05:31] <manolita>	est ce que la personne qui écrit des textes à des droits d'auteur et comment ça se passe ?
+[jeu jan 26 2006] [22:05:34] <Boris_Kavod>	En 2001 la directive EUCD a été votée par le parlement Européen
+[jeu jan 26 2006] [22:05:47] <Pierre>	manolita: oui
+[jeu jan 26 2006] [22:05:57] <Pierre>	ca passe par des organismes qui gerent ca
+[jeu jan 26 2006] [22:06:04] <Aurelie-Ptitchou>	comme la sacem ?
+[jeu jan 26 2006] [22:06:05] <Pierre>	(et qui se remplissent bien les poches au passage)
+[jeu jan 26 2006] [22:06:09] <Pierre>	voila :)
+[jeu jan 26 2006] [22:06:15] <Boris_Kavod>	Obligeant les états membres à faire voter une loi dans les 3 ans qui suivait visant à contrecarrer le téléchargement illégal (en gros)
+[jeu jan 26 2006] [22:06:30] <mazaelle>	les sourcils ça fait mal
+[jeu jan 26 2006] [22:06:47] <Boris_Kavod>	Le texte a été porté devant le parlement francais à la veille des vacances de noel parlementaire
+[jeu jan 26 2006] [22:06:59] <Mady>	et cette histoire de licence alors ?
+[jeu jan 26 2006] [22:07:13] <Mady>	on parle beaucoup d'une "licence" ces derniers temps
+[jeu jan 26 2006] [22:07:14] <Mady>	avec les pour et les contre
+[jeu jan 26 2006] [22:07:32] <Ensemble>	je parle pas parceque j yconnais rien desole
+[jeu jan 26 2006] [22:07:39] <Ensemble>	en effet c bien plsu rapide comme ca
+[jeu jan 26 2006] [22:07:41] <Boris_Kavod>	et à la plus grande surprise, des députés de la majorité ont fait voté un amendement autorisant en quelque sorte la téléchargement illimité d'oeuvres protégée avec, en contrepartie, 7¤ de l'abonnement Internet reversé aux droits d'auteurs
+[jeu jan 26 2006] [22:07:41] <manolita>	je vais apprendre des choses ce soir, je vous écoute
+[jeu jan 26 2006] [22:08:00] <Boris_Kavod>	Ca s'appelle en effet la "license globale"
+[jeu jan 26 2006] [22:08:04] <Mady>	c'est ca, la "licence légale" ,
+[jeu jan 26 2006] [22:08:10] <manolita>	un genre de forfait ?
+[jeu jan 26 2006] [22:08:15] <Mady>	ah ok pardon :)
+[jeu jan 26 2006] [22:08:15] <Pierre>	oui
+[jeu jan 26 2006] [22:08:18] <Boris_Kavod>	Bref bref bref... réactions à chaud : je vous en prie ! ;)
+[jeu jan 26 2006] [22:08:21] <Pierre>	le prix ne figurait pas ds le texte
+[jeu jan 26 2006] [22:08:46] <Pierre>	je precise que l examen du projet de loi a ete arreté en plein milieu
+[jeu jan 26 2006] [22:08:47] <Mady>	si on dit qu'on télécharge de la musique sur un chat qui va etre publié sur un site, on risque des poursuites ? :)
+[jeu jan 26 2006] [22:08:48] <manolita>	7% de l'abonnement internet ça doit être énorme
+[jeu jan 26 2006] [22:08:52] <Boris_Kavod>	manolita> c'est pas vraiment définis... on ne sait pas vraiment non plus si c'est imposé à tous les forfaits internet ou seulement en option
+[jeu jan 26 2006] [22:08:58] <Pierre>	Mady: non
+[jeu jan 26 2006] [22:09:03] <Boris_Kavod>	manolita> 7¤, pas 7%
+[jeu jan 26 2006] [22:09:04] <Mady>	BON :)
+[jeu jan 26 2006] [22:09:18] <Pierre>	je vois pas ton signe euro
+[jeu jan 26 2006] [22:09:25] <Boris_Kavod>	7 Euros, pas 7 pour cents ;)
+[jeu jan 26 2006] [22:09:34] <JohnBaube>	non plus
+[jeu jan 26 2006] [22:09:41] <JohnBaube>	€
+[jeu jan 26 2006] [22:09:43] <Boris_Kavod>	(vala, rien de tel que les caractères l'UTF-8 ;)
+[jeu jan 26 2006] [22:09:44] <manolita>	ben c'est encore plus, alors
+[jeu jan 26 2006] [22:09:52] <pascal-negre>	bé disons ue perso j'ai le meme point de vue que les artistes ...c'est n'importe quoi ....
+[jeu jan 26 2006] [22:09:59] <Pierre>	et site aux reactions a cet amendement le projet de loi va etre modifié
+[jeu jan 26 2006] [22:10:06] <Pierre>	suite
+[jeu jan 26 2006] [22:10:17] <Aurelie-Ptitchou>	pourquoi l'examen a été arreté en plein milieu ?
+[jeu jan 26 2006] [22:10:22] <Pierre>	c'etait les vacances
+[jeu jan 26 2006] [22:10:27] <Aurelie-Ptitchou>	modifié sous la pression des artistes ?
+[jeu jan 26 2006] [22:10:30] <Aurelie-Ptitchou>	ah ok
+[jeu jan 26 2006] [22:10:39] <Pierre>	sous diverses pressions
+[jeu jan 26 2006] [22:10:44] <Aurelie-Ptitchou>	ok
+[jeu jan 26 2006] [22:10:48] <Mady>	mais en fait ... bon je ne suis pas specialiste, donc je dis ptet des trucs completement naif
+[jeu jan 26 2006] [22:10:50] <Boris_Kavod>	Aurelie-Ptitchou> oui... et d'autres pressions dans l'autre sens... enfin j'y reviendrai ;)
+[jeu jan 26 2006] [22:10:51] <Mady>	mais...
+[jeu jan 26 2006] [22:11:06] <Aurelie-Ptitchou>	oui mady ?
+[jeu jan 26 2006] [22:11:10] <Mady>	la pour l'instant, on sait plus ou moins qu'on a pas le droit, donc on telecharge
+[jeu jan 26 2006] [22:11:18] <Mady>	mais onsait qu'on est un peu hors la loi
+[jeu jan 26 2006] [22:11:21] <Mady>	si on nous dit
+[jeu jan 26 2006] [22:11:24] <Mady>	vous payez 7 euros
+[jeu jan 26 2006] [22:11:30] <Mady>	vous prenez tout ce que vous voulez
+[jeu jan 26 2006] [22:11:46] <Mady>	ne va t il pas y avoir bcp plus de telechargement ?
+[jeu jan 26 2006] [22:11:51] <Pierre>	http://fr.news.yahoo.com/26012006/202/droits-d-auteur-projet-de-loi-presente-partir-du-mois.html
+[jeu jan 26 2006] [22:11:55] <Pierre>	pour qq infos
+[jeu jan 26 2006] [22:11:58] <Mady>	(question)
+[jeu jan 26 2006] [22:12:11] <Pierre>	Mady: on sait pas
+[jeu jan 26 2006] [22:12:15] <Boris_Kavod>	Mady> je pense que ouais... ca va légèrement augmenter... à quel point, aucune idée
+[jeu jan 26 2006] [22:12:23] <Pierre>	en fait non je pense
+[jeu jan 26 2006] [22:12:24] <Aurelie-Ptitchou>	oui ça dissuade encore qques personnes meme si on peut se demander qui ne l'a pas déjà fait
+[jeu jan 26 2006] [22:12:29] <Mady>	enfin ca va deculpabiliser, c ce que je voulais dire
+[jeu jan 26 2006] [22:12:30] <Ensemble>	bon je doit filer moi gros bisous a tous et j;espere a bientot
+[jeu jan 26 2006] [22:12:33] <Ensemble>	:x
+[jeu jan 26 2006] [22:12:36] <Pierre>	parce que que le facteur illegalité n influe pas
+[jeu jan 26 2006] [22:12:39] <pascal-negre>	 bye Ensemble
+[jeu jan 26 2006] [22:12:46] <Pierre>	comme le montre une etude recemment
+[jeu jan 26 2006] [22:12:46] <Mady>	bye ensemble !
+[jeu jan 26 2006] [22:12:48] <manolita>	je vais vous dire, j'ai jamais téléchargé, en général j'écoute des extraits puis j'achète le cd si ça me plait
+[jeu jan 26 2006] [22:12:51] <Boris_Kavod>	Les médias nous sorte des chiffres sur le nombre de téléchargement illégaux/jour... techniquement, je ne sais pas comment ils font vu le nombre de medias de P2P
+[jeu jan 26 2006] [22:12:51] Quitter	Ensemble a quitté le serveur. (Quit: Leaving)
+[jeu jan 26 2006] [22:12:55] <Aurelie-Ptitchou>	oui tout le monde est passé "de l'autre coté" je pense
+[jeu jan 26 2006] [22:13:18] <Mady>	d'accord
+[jeu jan 26 2006] [22:13:26] <Aurelie-Ptitchou>	enfin non pas tout le monde mais de plus en plus de gens
+[jeu jan 26 2006] [22:13:32] <Mady>	(la force obscure ? :) )
+[jeu jan 26 2006] [22:13:35] <Aurelie-Ptitchou>	avec plus ou moins ce sentiment de culpabilité
+[jeu jan 26 2006] [22:13:39] <Aurelie-Ptitchou>	(oui ptet ;))
+[jeu jan 26 2006] [22:13:44] <Mady>	moi je télécharge quand meme ...
+[jeu jan 26 2006] [22:14:02] <JohnBaube>	tant qu'on n'en fait pas un commerce
+[jeu jan 26 2006] [22:14:05] <Pierre>	http://www.quechoisir.org/Position.jsp;jsessionid=3FA32C8CA6DF77683B60F7464BCA95BB.tomcat-1?id=Ressources:Positions:B164563EA65BF212C12570DD0036B9CF&catcss=IMA101&categorie=NoeudPClassement:5841FB0AEED2B5C9C1256F01003490F3
+[jeu jan 26 2006] [22:14:08] <Mady>	mais je sais pas combien j'accepterais de payer pour le faire
+[jeu jan 26 2006] [22:14:08] <Pierre>	le lien sur l'etude
+[jeu jan 26 2006] [22:14:11] <pascal-negre>	moi j'était un trés gros telechargeur qui a pris conscience du truc ..et qui ne telecharge plus du tout
+[jeu jan 26 2006] [22:14:12] <Boris_Kavod>	Déjà, y a t'il un consensus sur le fait que c'est mal ? ;)
+[jeu jan 26 2006] [22:14:17] <Boris_Kavod>	(meme si on le fait ;)
+[jeu jan 26 2006] [22:14:22] <JohnBaube>	oui bien sur
+[jeu jan 26 2006] [22:14:33] <Mady>	moi je suis une telechargeuse
+[jeu jan 26 2006] [22:14:35] <Pierre>	euh non
+[jeu jan 26 2006] [22:14:42] <Pierre>	c'est le partage
+[jeu jan 26 2006] [22:14:53] <Mady>	ben ...
+[jeu jan 26 2006] [22:14:54] <Aurelie-Ptitchou>	oui à terme et à grosse quantité (si c'est un mp3 par si par là, j'trouve pas ça si grave)
+[jeu jan 26 2006] [22:15:14] <Pierre>	c'est beau le partage dans ce monde qui n'a plus de religion que l'argent
+[jeu jan 26 2006] [22:15:14] <Mady>	oui c'est un mal sans doute, d'un point de vue de la creation
+[jeu jan 26 2006] [22:15:19] <Boris_Kavod>	Pierre> oki, mais si on te répond "et comment vivent les artistes" ?
+[jeu jan 26 2006] [22:15:25] <Mady>	bon apres on peut toujours dire qu'on telecharge les "gros" et qu'on achete les "petits"
+[jeu jan 26 2006] [22:15:28] <manolita>	moi je ne télécharge pas, mes filles non plus
+[jeu jan 26 2006] [22:15:31] <Pierre>	Boris_Kavod: je ne vois pas le rapport
+[jeu jan 26 2006] [22:15:36] <pascal-negre>	et en général on partage ce qui est àa soi ...
+[jeu jan 26 2006] [22:15:52] <Pierre>	ben oui chacun partage ses mp3 a lui
+[jeu jan 26 2006] [22:15:57] <Boris_Kavod>	(je précise que je ne prend pas encore position... je guide le débat ;)
+[jeu jan 26 2006] [22:16:02] <JohnBaube>	zut j'avais coupé emule, je le relance :p
+[jeu jan 26 2006] [22:16:06] <Pierre>	:)
+[jeu jan 26 2006] [22:16:07] <Mady>	:)
+[jeu jan 26 2006] [22:16:10] <Aurelie-Ptitchou>	lol
+[jeu jan 26 2006] [22:16:11] <pascal-negre>	partagé un truc téléchargé ...c pas du partage
+[jeu jan 26 2006] [22:16:19] <Aurelie-Ptitchou>	fait gaffe, tu es publié mamat
+[jeu jan 26 2006] [22:16:22] <Pierre>	c'est pas forcement telechargé
+[jeu jan 26 2006] [22:16:27] <Aurelie-Ptitchou>	euh JohnBaube je veux dire ;)
+[jeu jan 26 2006] [22:16:29] <JohnBaube>	JOHNBAUBE stp
+[jeu jan 26 2006] [22:16:31] <Pierre>	ca peut etre un cd rippé
+[jeu jan 26 2006] [22:16:33] <JohnBaube>	voilà
+[jeu jan 26 2006] [22:16:37] <pascal-negre>	ne soyons pas hypocrite ...on est entre nous :)
+[jeu jan 26 2006] [22:16:39] <Pierre>	que j'ai payé 25 euros
+[jeu jan 26 2006] [22:16:50] <Boris_Kavod>	Disons que je produit quotidiennement du lait de brebis... est-ce que je dois le donner à tout le village pour "le partage" ?
+[jeu jan 26 2006] [22:17:01] Quitter	Mady a quitté le serveur. (Read error: Connection reset by peer)
+[jeu jan 26 2006] [22:17:02] <Pierre>	Boris_Kavod: c'est pas comparable
+[jeu jan 26 2006] [22:17:07] <Pierre>	c'est qqch de materiel
+[jeu jan 26 2006] [22:17:16] Joindre	Mady a rejoint le canal. (Mady@Wnet-epbbx5.proxad.net)
+[jeu jan 26 2006] [22:17:23] <Boris_Kavod>	ok... alors, je suis disons avocat... 
+[jeu jan 26 2006] [22:17:31] <Boris_Kavod>	je donne mes conseils à tout le monde bénévolement ?
+[jeu jan 26 2006] [22:17:37] <Pierre>	non
+[jeu jan 26 2006] [22:17:42] <Boris_Kavod>	comment je vis ? :)
+[jeu jan 26 2006] [22:17:43] <Pierre>	c'est pas comparable non plus
+[jeu jan 26 2006] [22:17:50] <Pierre>	ta question etait mal posee
+[jeu jan 26 2006] [22:17:52] <Pierre>	je pense
+[jeu jan 26 2006] [22:17:55] <Mady>	ceci dit, on paiera toujours pour aller voir un concert
+[jeu jan 26 2006] [22:17:59] <Pierre>	ce debat n'est pas une question de bien et de mal
+[jeu jan 26 2006] [22:18:05] <manolita>	moi je trouve que c'st comparable
+[jeu jan 26 2006] [22:18:34] <Boris_Kavod>	Pierre> j'attend simplement que tu précises ton idée ;)
+[jeu jan 26 2006] [22:18:37] <pascal-negre>	l'exemple des artistes  est parfait d'ailleurs ....moi je vends des pompes ..si om me dit on paye un forfait à l'entrée et on prend tout ce qu'on veut ...ben je vais perdre mon job :)
+[jeu jan 26 2006] [22:18:44] <Boris_Kavod>	Car il ya quand meme une histoire de "vivre de ce que l'on fait"
+[jeu jan 26 2006] [22:18:52] <Pierre>	les modeles de diffusion evoluent, les artistes doivent s adapter
+[jeu jan 26 2006] [22:19:09] <pascal-negre>	d'accord aussi ...mais pas gratos ...c pas possible
+[jeu jan 26 2006] [22:19:24] <Pierre>	les bien materiels et immateriels c pas pareil
+[jeu jan 26 2006] [22:19:28] <Boris_Kavod>	(je précise au passage que JJG n'est toujours pas présent en téléchargement légal)
+[jeu jan 26 2006] [22:19:37] <pascal-negre>	si c'est pareil
+[jeu jan 26 2006] [22:19:46] <Pierre>	mais non reflechis un peu
+[jeu jan 26 2006] [22:19:47] <pascal-negre>	un artiste vit de ce qu'il crée
+[jeu jan 26 2006] [22:19:54] <Pierre>	si ca marche
+[jeu jan 26 2006] [22:20:17] <Pierre>	c un autre debat
+[jeu jan 26 2006] [22:20:24] <Mady>	Aurelie-ptitchou  à l'aide, le debat tourne au masculin la :)
+[jeu jan 26 2006] [22:20:26] <manolita>	moi j'aimerais savoir le pourcentage qu'a un artiste de sa création et ce qui va aux maisons de prod et tout ce qui gravite autour
+[jeu jan 26 2006] [22:20:29] <pascal-negre>	kes qu iest un autre débat ?
+[jeu jan 26 2006] [22:20:34] <Mady>	ah non, manolita est la :)
+[jeu jan 26 2006] [22:20:45] <Pierre>	manolita: ca depend s'il est juste chanteur ou aussi auteur etc
+[jeu jan 26 2006] [22:20:51] <pascal-negre>	on est en plein dans le débat là
+[jeu jan 26 2006] [22:20:58] <Boris_Kavod>	Pierre> Je crois qu'on attend tous que tu précises le "comment un artiste vit de ce qu'il fait s'il "partage"
+[jeu jan 26 2006] [22:20:58] <Pierre>	mais au max, par ex jjg il touche je crois 25%
+[jeu jan 26 2006] [22:21:10] <Pierre>	donc bon
+[jeu jan 26 2006] [22:21:16] <manolita>	et des fois que la chanson passe à la radio aussi, il me semble, franchement je me perds dans ces méandres
+[jeu jan 26 2006] [22:21:21] <Mady>	oui mais JJG a bien bien négocié je crois
+[jeu jan 26 2006] [22:21:30] <Boris_Kavod>	JJG touche énormément, mais en tant qu'éditeur : il livre une oeuvre clef en main (enregistrée mixée & co) à Sony
+[jeu jan 26 2006] [22:21:32] <Mady>	enfin je vx dire il touche bcp plus que les autres en pourcentage
+[jeu jan 26 2006] [22:21:37] <Pierre>	mais comment vivent les artistes, partage ou pas ca change pas grand chose
+[jeu jan 26 2006] [22:21:53] <Pierre>	ya que 5% des artistes qui vivent de leur art
+[jeu jan 26 2006] [22:22:01] <pascal-negre>	de toute façon ce n'est aps vraiment les "vedettes" qui sont lésés
+[jeu jan 26 2006] [22:22:08] <Mady>	voila c ca
+[jeu jan 26 2006] [22:22:14] <Mady>	ce sont pas vraiment les gros
+[jeu jan 26 2006] [22:22:17] <Pierre>	personne n'est lésé a part les majors
+[jeu jan 26 2006] [22:22:31] <pascal-negre>	les majors ...ils m'ont tjrs fait marrer ...
+[jeu jan 26 2006] [22:22:36] <Mady>	tu ne penses pas que les petits artistes emergents peuvent l'etre ?
+[jeu jan 26 2006] [22:22:39] <pascal-negre>	pascal negre en 1er
+[jeu jan 26 2006] [22:22:45] <manolita>	ben alors c'est pas juste que les "pas vedettes" ne puissent pas gagner leur vie
+[jeu jan 26 2006] [22:22:52] <pascal-negre>	ce pseudo est d'ailleurs ironique
+[jeu jan 26 2006] [22:22:55] <Pierre>	Mady: non au contraire ils peuvent profiter de ces nouveaux modeles pour se faire connaitre
+[jeu jan 26 2006] [22:23:00] <manolita>	c'est quoi les majors ???
+[jeu jan 26 2006] [22:23:03] <Pierre>	pascal-negre: j espere
+[jeu jan 26 2006] [22:23:08] <Aurelie-Ptitchou>	oui y'a le pour et le contre
+[jeu jan 26 2006] [22:23:09] <Pierre>	les principales maisons de disques
+[jeu jan 26 2006] [22:23:13] <Aurelie-Ptitchou>	c'est un bon résumé ça hein :)
+[jeu jan 26 2006] [22:23:14] <Mady>	oui c'est vrai aussi...
+[jeu jan 26 2006] [22:23:16] <Boris_Kavod>	Pierre> tu veux dire que si Goldman avait commencé maintenant, il aurait du continuer à vendre ses articles de sport à montrouge tout en enregistrant 2-3 albums ?
+[jeu jan 26 2006] [22:23:24] <Boris_Kavod>	(comment ca ca a été le cas ? ;)
+[jeu jan 26 2006] [22:23:26] <Pierre>	Boris_Kavod: ben c ce kil a fait
+[jeu jan 26 2006] [22:23:34] <pascal-negre>	lol
+[jeu jan 26 2006] [22:23:41] <manolita>	ah ben j'aurais été ravie moi de le voir à montrouge !!!
+[jeu jan 26 2006] [22:23:42] Pseudo	pascal-negre est maintenant connu sous le nom de mmf.
+[jeu jan 26 2006] [22:23:43] <Pierre>	donc voila
+[jeu jan 26 2006] [22:23:50] <Boris_Kavod>	Je tendais une perche en effet ;)
+[jeu jan 26 2006] [22:24:05] <mmf>	nan serieux jamais un discours de pascal negre m'a fait arreter de telecharger ...au contraire !!
+[jeu jan 26 2006] [22:24:13] <Pierre>	le p2p c un bouc emissaire de vrais problemes
+[jeu jan 26 2006] [22:24:40] <Aurelie-Ptitchou>	Après c'est vrai qu'on entend souvent que ce débat a déjà plus ou moins eu lieu : quand il y a eu les k7, les cd...
+[jeu jan 26 2006] [22:24:45] <Pierre>	tout a fait
+[jeu jan 26 2006] [22:24:51] <mmf>	pas a la meme echelle quand meme
+[jeu jan 26 2006] [22:24:52] <Pierre>	ya eu le mm aussi avec les photocopieuses
+[jeu jan 26 2006] [22:24:52] Quitter	Mady a quitté le serveur. (Read error: Connection reset by peer)
+[jeu jan 26 2006] [22:25:04] <mmf>	ct pas la meme facilité
+[jeu jan 26 2006] [22:25:06] <Pierre>	a chaque fois on a le discours sur l'apocalypse
+[jeu jan 26 2006] [22:25:12] <Boris_Kavod>	Bon, j'ai un article de Epok (le magazine de la fnac) sous les yeux...
+[jeu jan 26 2006] [22:25:22] <manolita>	ouiii ?
+[jeu jan 26 2006] [22:25:26] <mmf>	je sais pas si il y a des trentenaires là ...mais copié une k7...pfff quelle galére
+[jeu jan 26 2006] [22:25:29] <Pierre>	moi aussi j ai des articles sous les yeux :)
+[jeu jan 26 2006] [22:25:29] <Boris_Kavod>	(je précise que c'est la fnac... donc un peu engagé tout de meme ;)
+[jeu jan 26 2006] [22:25:42] <Boris_Kavod>	Il prend pour exemple le CD de Fersen...
+[jeu jan 26 2006] [22:26:14] <Aurelie-Ptitchou>	ah c'est intéressant ça
+[jeu jan 26 2006] [22:26:16] <manolita>	ils disent quoi ?
+[jeu jan 26 2006] [22:26:22] <Boris_Kavod>	La production du CD aurait couté "554 131¤"
+[jeu jan 26 2006] [22:26:35] <Pierre>	c'est précis
+[jeu jan 26 2006] [22:26:40] <Boris_Kavod>	Ils donne le détail juste en dessus...
+[jeu jan 26 2006] [22:26:54] <Boris_Kavod>	je vais pas tout énuméré, ce serait long et pas vraiment intelligible en chat...
+[jeu jan 26 2006] [22:27:01] <Boris_Kavod>	Cependant, ya un truc qui m'a choqué un max
+[jeu jan 26 2006] [22:27:33] <Boris_Kavod>	L'enregistrement proprement dit cad :
+[jeu jan 26 2006] [22:27:49] Joindre	Mady42 a rejoint le canal. (Mady@Wnet-epbbx5.proxad.net)
+[jeu jan 26 2006] [22:27:51] <Mady42>	re
+[jeu jan 26 2006] [22:28:00] <Boris_Kavod>	prises de son, montage, mixage, locatoion de matos, repas, fournitures, salaires (interprète, musiciens etc...))
+[jeu jan 26 2006] [22:28:01] <Mady42>	je pars et reviens, pour faire un peu d'animation :)
+[jeu jan 26 2006] [22:28:08] <Boris_Kavod>	revient exactement à 119 805¤
+[jeu jan 26 2006] [22:28:29] <manolita>	woaouuuuuuuuu, c'est cher !!!!
+[jeu jan 26 2006] [22:28:36] <Pierre>	pkoi pas
+[jeu jan 26 2006] [22:28:46] <Boris_Kavod>	+ 110 826¤ pour les couts fixes du producteur (salaires, loyer, charge etc...)
+[jeu jan 26 2006] [22:28:55] <Aurelie-Ptitchou>	ah ouais qd meme
+[jeu jan 26 2006] [22:29:02] <Boris_Kavod>	c'est peut-être cher... mais il faut quand meme se demander ou passe le reste
+[jeu jan 26 2006] [22:29:11] <manolita>	ils gagnent bien leur vie dans le show bizz
+[jeu jan 26 2006] [22:29:18] <Boris_Kavod>	ya 3/5 de la sommes qui partent dans... le marketing !!!!
+[jeu jan 26 2006] [22:29:20] <Mady42>	hum...
+[jeu jan 26 2006] [22:29:24] <manolita>	oui ben c'était ma question ?
+[jeu jan 26 2006] [22:29:27] <Boris_Kavod>	120 000 dans la pub TV
+[jeu jan 26 2006] [22:29:31] <Boris_Kavod>	20 000 dans la pub radio
+[jeu jan 26 2006] [22:29:35] <manolita>	ah ouiiiiiii
+[jeu jan 26 2006] [22:29:41] <Boris_Kavod>	45 000 dans la promotion du concert
+[jeu jan 26 2006] [22:29:53] <Boris_Kavod>	40 000 dans la production du clip
+[jeu jan 26 2006] [22:29:56] <Boris_Kavod>	etc...
+[jeu jan 26 2006] [22:30:04] <manolita>	pfiouuuuu
+[jeu jan 26 2006] [22:30:09] <Boris_Kavod>	Bref... n'est-ce pas de l'argent foutu en l'air tout de meme ?
+[jeu jan 26 2006] [22:30:16] <manolita>	et l'artiste il gagne pas tant que ça finalement
+[jeu jan 26 2006] [22:30:19] <Pierre>	bah sans ca il vendrait moins
+[jeu jan 26 2006] [22:30:26] <Boris_Kavod>	Alors l'artiste gagne exactement...
+[jeu jan 26 2006] [22:30:35] <Pierre>	manolita: ah non les artistes en moyenne ils touchent 5% a tout casser
+[jeu jan 26 2006] [22:30:44] <Boris_Kavod>	une petite part des 75 230¤ des salaires de l'enregistrement...
+[jeu jan 26 2006] [22:30:54] <manolita>	vous voyez moi je trouve ça pas normal
+[jeu jan 26 2006] [22:31:01] <Boris_Kavod>	+ une part des 1.70¤/CD vendu en royalities
+[jeu jan 26 2006] [22:31:26] <Boris_Kavod>	sachant que dans les 1.70¤ ya aussi la part du réalisateur
+[jeu jan 26 2006] [22:31:27] <manolita>	les "petits artistes", ils rament
+[jeu jan 26 2006] [22:31:30] <Boris_Kavod>	cad, la maison d'édition
+[jeu jan 26 2006] [22:32:05] <Pierre>	manolita: et ?
+[jeu jan 26 2006] [22:32:08] <Boris_Kavod>	Enfin voila... maintenant de deux choses l'une...
+[jeu jan 26 2006] [22:32:27] <Mady42>	woh
+[jeu jan 26 2006] [22:32:27] <Boris_Kavod>	déjà, pour les gros artistes : a-t-on besoin de dépenser autant dans le marketing ????
+[jeu jan 26 2006] [22:32:30] <Pierre>	Boris_Kavod: le telechargement a aucun rapport avec ca :)
+[jeu jan 26 2006] [22:32:35] <Mady42>	c impressionnant traduit en chiffre !
+[jeu jan 26 2006] [22:32:43] <Pierre>	Boris_Kavod: c un choix de leur part non
+[jeu jan 26 2006] [22:32:50] <manolita>	et s'ils n'ont pas de pub, etc, pas les moyens de produire, ben on les connait pas, mais.... y a le net
+[jeu jan 26 2006] [22:32:50] <Boris_Kavod>	on prend goldman : il ne fait pas de promo concert et il fait salles combles sur 10 mois
+[jeu jan 26 2006] [22:32:59] <Pierre>	ya des gens sils voient pas la pub sur tf1 ils savent pas que ca existe
+[jeu jan 26 2006] [22:33:05] <Boris_Kavod>	et la pub doit etre largement en dessous de la moyenne
+[jeu jan 26 2006] [22:33:12] <mmf>	mais dites moi ...vous telecharger comment vous ? moi à l'époque ..je telechargais quasiment que des cd que je n'aurait pas acheté de toute façon , on va dire plus par curiosité quoi ...et si ct un artiste que j'appréciais ..ben j'achetais le cd ...
+[jeu jan 26 2006] [22:33:19] <Pierre>	Boris_Kavod: c'est une exception
+[jeu jan 26 2006] [22:33:32] <Boris_Kavod>	A contrario, les petits artistes ne bénéficient pas d'une telle campagne marketing... et pourtant la fnac vend leur CD aussi cher :)
+[jeu jan 26 2006] [22:34:05] <Boris_Kavod>	Bon, mon cas du téléchargement :)
+[jeu jan 26 2006] [22:34:16] <Boris_Kavod>	J'étais il n'y a pas longtemps encore étudiant...
+[jeu jan 26 2006] [22:34:17] <Mady42>	Oui mais goldman, c'est le meilleur :)
+[jeu jan 26 2006] [22:34:21] <Mady42>	OH c t la parenthse fan de la soirée
+[jeu jan 26 2006] [22:34:23] <Boris_Kavod>	et les CDs... bah j'avais un peu de mal...
+[jeu jan 26 2006] [22:34:38] <Boris_Kavod>	donc mis à part mes favoris... certes, ca téléchargeait pas mal...
+[jeu jan 26 2006] [22:34:49] <Mady42>	comme un peu la majorité des telechargeurs en fait non ?
+[jeu jan 26 2006] [22:34:53] <Mady42>	c le profil type non ?
+[jeu jan 26 2006] [22:34:55] <mmf>	il y aussi les trucs trouvés sur le net mais jamais commercialisé ....
+[jeu jan 26 2006] [22:35:01] <Boris_Kavod>	Cependant, depuis que j'ai un salaires... la mule n'a été utilisée que pour télécharger des logiciels libres une fois tous les 36 du mois
+[jeu jan 26 2006] [22:35:02] <manolita>	mais vous arrivez à écouter tout ce que vous téléchargez ?
+[jeu jan 26 2006] [22:35:18] <Boris_Kavod>	Mady42> nan, je crois pas que ce soit le profil type
+[jeu jan 26 2006] [22:35:28] <mmf>	je ne crois pas non plus
+[jeu jan 26 2006] [22:35:31] <Boris_Kavod>	manolita> à l'époque nan en effet ;)
+[jeu jan 26 2006] [22:35:32] <Mady42>	tu penses que le profil type c'est plutot quoi ?
+[jeu jan 26 2006] [22:35:41] <Boris_Kavod>	yen a pas :)
+[jeu jan 26 2006] [22:35:48] <Pierre>	si
+[jeu jan 26 2006] [22:35:48] <Boris_Kavod>	ya bcq de jeunes certes...
+[jeu jan 26 2006] [22:35:51] <Pierre>	regarde l'etude
+[jeu jan 26 2006] [22:36:01] <Pierre>	que j'ai cité plus haut
+[jeu jan 26 2006] [22:36:27] <Mady42>	je dis ca parce que je suis pareil, et que je me prend pour une généralité lol mais bon certes, je ne suis ptet pas représentative ;)
+[jeu jan 26 2006] [22:36:35] <Mady42>	oui mais j'ai planté entre temps :(
+[jeu jan 26 2006] [22:36:47] <manolita>	tiens ce matin, un copain me disait qu'il téléchargeait de manière compulsive des films et qu'il les stochait et ne les regardait pas, c'est comme ça aussi pour la musique ?
+[jeu jan 26 2006] [22:36:49] <Pierre>	Du point de vue du profil des copieurs, il apparaît que l'échange de copie est une pratique très répandue qui concerne pratiquement toutes les catégories sociales. Les copieurs ne peuvent pas uniquement être assimilés à des jeunes irresponsables ou à des resquilleurs. En fait, près de 11 millions d'internautes en France téléchargent de la musique sur Internet (soit plus de 40% des internautes).
+[jeu jan 26 2006] [22:36:52] <mmf>	et le risque c que jes jeunes n'ont plus le reflexe d'acheter un cd ...
+[jeu jan 26 2006] [22:37:13] <Pierre>	manolita: ce genre de pratique existe mais releve plus de la psychiatrie la je pense
+[jeu jan 26 2006] [22:38:10] <manolita>	surement oui
+[jeu jan 26 2006] [22:38:20] <Pierre>	et c tres minoritaire
+[jeu jan 26 2006] [22:38:29] <Mady42>	oui donc il n'y a pas de profil type
+[jeu jan 26 2006] [22:38:32] <mmf>	c juste pour se la peter auprés de ses potes ...
+[jeu jan 26 2006] [22:38:33] <mmf>	:)
+[jeu jan 26 2006] [22:38:42] <Pierre>	je pense pas que acheter un cd doive etre un reflexe
+[jeu jan 26 2006] [22:38:57] <mmf>	nan c pas ce que je voulais dire non plus
+[jeu jan 26 2006] [22:39:20] <mmf>	il vont prendre l'habitude de telecharger car plus rapide plus pratique et gratos
+[jeu jan 26 2006] [22:39:36] <mmf>	et je pense que si on mlaisse aller ...ça va etre la cata
+[jeu jan 26 2006] [22:39:54] <Pierre>	bah non
+[jeu jan 26 2006] [22:40:02] <mmf>	 tu crois aps ?
+[jeu jan 26 2006] [22:40:23] <Pierre>	c qd mm pas pareil d avoir un objet ds les mains
+[jeu jan 26 2006] [22:40:29] <Pierre>	avec une pochette etc
+[jeu jan 26 2006] [22:40:29] <mmf>	tu crois qu'il vont prendre conscience et acheter des cd ?
+[jeu jan 26 2006] [22:40:33] <Pierre>	un livret
+[jeu jan 26 2006] [22:40:36] <Mady42>	et tu penses aussi qu'ils n'auront plus conscience qu'il y a un travail de création derriere ?
+[jeu jan 26 2006] [22:40:40] <mmf>	oui car nous on a été habitué comme ça ....
+[jeu jan 26 2006] [22:40:52] <Boris_Kavod>	Pierre> à l'ère du "tout numérique", avoir un objet dans sa main ne change plus grand chose ;)
+[jeu jan 26 2006] [22:40:52] <mmf>	je sais pas quel age tu as  ..
+[jeu jan 26 2006] [22:40:58] <Pierre>	27
+[jeu jan 26 2006] [22:41:01] <mmf>	ok
+[jeu jan 26 2006] [22:41:06] <mmf>	donc t'as connu le vynil
+[jeu jan 26 2006] [22:41:13] <Pierre>	oui un peu
+[jeu jan 26 2006] [22:41:20] <mmf>	ct qqchose de s'acheter un album
+[jeu jan 26 2006] [22:41:32] <Pierre>	ben oui
+[jeu jan 26 2006] [22:41:33] <Boris_Kavod>	Après tout, je peux avoir l'intégrale de goldman dans une carte SD (2,5cm/1.5cm)
+[jeu jan 26 2006] [22:41:47] <mmf>	lol bobo ...
+[jeu jan 26 2006] [22:42:03] <mmf>	moi j'ai toute ma disco dans mon jukebox 20giga :)
+[jeu jan 26 2006] [22:42:12] <Aurelie-Ptitchou>	et oh pas de termes trop techniques pour nos oreilles chatses informatiquement !
+[jeu jan 26 2006] [22:42:13] <Mady42>	Boris-Kavod : oui mais tu n'auras pas le boitier en metal :)
+[jeu jan 26 2006] [22:42:15] <manolita>	mais si on a les cd c'est légal de télécharger ?
+[jeu jan 26 2006] [22:42:18] <mmf>	bref
+[jeu jan 26 2006] [22:42:32] <Pierre>	manolita: bonne question
+[jeu jan 26 2006] [22:42:33] <Boris_Kavod>	Bon... si on parlait un peu du problème d'interopérabilité alors ? :)
+[jeu jan 26 2006] [22:42:39] <Pierre>	ah oui
+[jeu jan 26 2006] [22:42:42] <Pierre>	parlons en
+[jeu jan 26 2006] [22:42:45] <Pierre>	de ce scandale
+[jeu jan 26 2006] [22:42:46] <Mady42>	LOL
+[jeu jan 26 2006] [22:42:50] <Boris_Kavod>	histoire que je sois dans la meme longueur d'onde que pierre sur ce coup là ;)
+[jeu jan 26 2006] [22:42:50] <Mady42>	euuuuuuuuuh
+[jeu jan 26 2006] [22:42:52] <Aurelie-Ptitchou>	euh z'etes surs ?
+[jeu jan 26 2006] [22:42:53] <Mady42>	STOP
+[jeu jan 26 2006] [22:42:54] <mmf>	je prend mes neveux en exemple ...si ils veulent un album ...ben il telecharge ...ils on t meme pas à l'idée qu'il pourrait l'acheter
+[jeu jan 26 2006] [22:43:11] <Mady42>	c'est quoi l'interopérabilité ? ;)
+[jeu jan 26 2006] [22:43:25] <manolita>	oui c'est quoi, ce soir vous parlez chinois
+[jeu jan 26 2006] [22:43:39] <mmf>	c pourkoi je me pose la question pour le futur
+[jeu jan 26 2006] [22:43:46] <Boris_Kavod>	Pas d'inquiétude : 1 ca fait parti du sujet / 2 c'est meme une cause majoritaire de la retouche du projet de loi / 3 on va essayer de faire simple et compréhensible :)
+[jeu jan 26 2006] [22:43:50] <Pierre>	L'interopérabilité est le fait que plusieurs systèmes, qu'ils soient identiques ou radicalement différents, puissent communiquer sans ambiguïté et opérer ensemble.
+[jeu jan 26 2006] [22:44:20] <Pierre>	par exemple que tu puisses ecouter un morceau que tu as acheté sur le site de la fnac sur ton ipod
+[jeu jan 26 2006] [22:44:21] <Boris_Kavod>	Exemple banal : je télécharge sur itune, je peux peux le mettre que sur mon ipod (et pas sur le baladeur de sony)
+[jeu jan 26 2006] [22:44:21] <manolita>	concrètement pour nos auteurs compositeurs ce serait quoi ?
+[jeu jan 26 2006] [22:44:30] <Pierre>	manolita: pour eux rien
+[jeu jan 26 2006] [22:44:36] <Pierre>	c un probleme d utilisateurs
+[jeu jan 26 2006] [22:44:39] <mmf>	ça c'est naze c clair ...
+[jeu jan 26 2006] [22:44:47] <Boris_Kavod>	Pour le consommateur : c'est le droit fondamental à la copie privée
+[jeu jan 26 2006] [22:45:00] <Pierre>	et meme au simple droit d'usage !
+[jeu jan 26 2006] [22:45:20] <Boris_Kavod>	Tu achètes un CD, tu veux le mettre sur ton baladeur : NAN, c'est protégé. Il droit EN PLUS télécharger l'album sur les sites légaux
+[jeu jan 26 2006] [22:45:46] <manolita>	ah ça je trouve ça nulllllll, tu as un cd et tu peux pas le copier ?!!!!
+[jeu jan 26 2006] [22:45:53] <mmf>	dites en parlant de ça ...quand un cd est protégé il l'est vraiment ?
+[jeu jan 26 2006] [22:45:54] <Mady42>	c'est a dire qu'en fait comme je ne sais pas "precisement" ce qu'est un i-pod et i-tunes, bon... mais je vois ce que vous voulez dire
+[jeu jan 26 2006] [22:46:00] <Boris_Kavod>	manolita> et c'est déjà une pratique courante des producteurs
+[jeu jan 26 2006] [22:46:10] <Pierre>	mmf: cad ?
+[jeu jan 26 2006] [22:46:22] <mmf>	car j'ai acheté le dernier benabar il est marqué protégé mais g eu aucun mal à le rippé
+[jeu jan 26 2006] [22:46:32] <mmf>	pour mon baladeur :)
+[jeu jan 26 2006] [22:46:36] <manolita>	mais y a moyen de copier qd meme je crois, je l'ai fait sur mon pc avec un cd de depalmas
+[jeu jan 26 2006] [22:46:38] <Boris_Kavod>	Mady42> iPOD c'est le baladeur MP3 (en gros toujours) d'Apple
+[jeu jan 26 2006] [22:46:48] <manolita>	ou de mickael jones
+[jeu jan 26 2006] [22:46:56] <Boris_Kavod>	Mady42> iTune c'est (en gros encore) le site de téléchargement payant d'Apple
+[jeu jan 26 2006] [22:47:04] <Pierre>	mmf: aucune protection technique n'est incassable
+[jeu jan 26 2006] [22:47:08] <Mady42>	ok
+[jeu jan 26 2006] [22:47:09] <Aurelie-Ptitchou>	ok j'apprends des choses aussi :)
+[jeu jan 26 2006] [22:47:09] <Pierre>	bien sur
+[jeu jan 26 2006] [22:47:16] <Boris_Kavod>	manolita> sur les nouveaux CDs, c'est de plus en plus compliqué
+[jeu jan 26 2006] [22:47:16] Joindre	famillien a rejoint le canal. (~famillien@Wnet-babd5v.wanadoo.fr)
+[jeu jan 26 2006] [22:47:30] <Aurelie-Ptitchou>	et ils vont légiférer sur l'interopérabilité ?
+[jeu jan 26 2006] [22:47:32] <manolita>	rooo, c'est embetant ça
+[jeu jan 26 2006] [22:47:32] <mmf>	soir famillien
+[jeu jan 26 2006] [22:47:33] <Boris_Kavod>	Le DRM (Digital Right Management) a été généralisé en Europé récement
+[jeu jan 26 2006] [22:47:35] <Mady42>	donc ils ont un site de telechargement payant, mais tu ne peux lire ce que tu telecharge que si tu paie leur baladeur
+[jeu jan 26 2006] [22:47:39] <famillien>	bonsoir
+[jeu jan 26 2006] [22:47:43] <Boris_Kavod>	bonsoir famillien 
+[jeu jan 26 2006] [22:47:47] <Pierre>	Aurelie-Ptitchou: normalement
+[jeu jan 26 2006] [22:47:50] <Mady42>	Bonsoir !
+[jeu jan 26 2006] [22:47:50] <manolita>	bonsoir famillien
+[jeu jan 26 2006] [22:47:54] <Boris_Kavod>	Aurelie-Ptitchou> Ils voulaient légiférer... mais dans le mauvais sens
+[jeu jan 26 2006] [22:47:55] <mmf>	ça c clairement du foutage de gueule
+[jeu jan 26 2006] [22:48:17] <famillien>	que de monde
+[jeu jan 26 2006] [22:48:17] <Boris_Kavod>	Aurelie-Ptitchou> Ils voulaient en quelque sorte abroger le droit à la copie privée... autorisant donc les protections
+[jeu jan 26 2006] [22:48:19] <manolita>	ah oui, moi ça me gonfle ces "protections" à la noix
+[jeu jan 26 2006] [22:48:44] <manolita>	je télécharge pas, j'achète le cd et je peux pas copier sur mon baladeur, pfiouuu, c'est con ça
+[jeu jan 26 2006] [22:48:44] Quitter	Mady42 a quitté le serveur. (Read error: Connection reset by peer)
+[jeu jan 26 2006] [22:48:46] <Boris_Kavod>	Cependant, il semblerait que ce soit le GROS point qui va etre modifié pour le prochain passage à l'assemblée
+[jeu jan 26 2006] [22:48:59] <Pierre>	oui il parait
+[jeu jan 26 2006] [22:49:03] <Boris_Kavod>	Je dis bien "il semblerait". Le gouvernement le dit... on attend encore de voir
+[jeu jan 26 2006] [22:49:38] Joindre	Mady a rejoint le canal. (Mady@Wnet-epbbx5.proxad.net)
+[jeu jan 26 2006] [22:49:50] <Mady>	re tout le monde
+[jeu jan 26 2006] [22:50:09] <Boris_Kavod>	Bref... cette histoire d'interopérabilité est en fait le gros point noir qui m'opposait au texte ;)
+[jeu jan 26 2006] [22:50:29] <Boris_Kavod>	Donc encore une fois... j'attend de voir le "projet de texte nouveau" pour me prononcer ;)
+[jeu jan 26 2006] [22:50:32] <Aurelie-Ptitchou>	ah ben oui là je comprends mieux
+[jeu jan 26 2006] [22:50:43] <Mady>	ah mais tu prend partie la :)
+[jeu jan 26 2006] [22:50:46] <Boris_Kavod>	(vous voyez que ce n'était pas sorcier d'aborder le sujet ;)
+[jeu jan 26 2006] [22:50:55] <Boris_Kavod>	Mady> là ouais carrément ;)
+[jeu jan 26 2006] [22:51:01] <Pierre>	c'est fini ?
+[jeu jan 26 2006] [22:51:05] <Mady>	oui c'est vrai
+[jeu jan 26 2006] [22:51:08] <Boris_Kavod>	Pour prendre encore plus parti, je vous invite à voir le site www.eucd.info
+[jeu jan 26 2006] [22:51:26] <Boris_Kavod>	Qui présente de facon très complete ce projet d'interopérabilité, et de facon très simple :)
+[jeu jan 26 2006] [22:51:34] <Pierre>	tout à fait
+[jeu jan 26 2006] [22:52:01] <Boris_Kavod>	Ah ouais, je rajouterai seulement sur ce sujet...
+[jeu jan 26 2006] [22:52:10] <Boris_Kavod>	ce n'est pas simplement un projet de droit à la copie privée (ou d'usage)
+[jeu jan 26 2006] [22:52:17] <Boris_Kavod>	Mais aussi un problème à la concurrence...
+[jeu jan 26 2006] [22:52:42] <famillien>	c'est trop sérieux pour moi
+[jeu jan 26 2006] [22:52:46] <Boris_Kavod>	Car notre Apple qui vend 10x plus de baladeurs que Sony est évidement avantagé par ces pratiques plus que Sony
+[jeu jan 26 2006] [22:53:00] <Boris_Kavod>	famillien> c'est une soirée spéciale ;)
+[jeu jan 26 2006] [22:53:16] <Boris_Kavod>	famillien> demain ce sera plus "normal" si tu veux ;)
+[jeu jan 26 2006] [22:53:31] <Mady>	oui oui meme tout a l'heure famillien :)
+[jeu jan 26 2006] [22:53:51] <famillien>	ah
+[jeu jan 26 2006] [22:54:08] <Pierre>	moi je rajouterai que jjg aura ptet un avis credible sur la question le jour ou il ira sur internet
+[jeu jan 26 2006] [22:54:13] <Boris_Kavod>	(pour reprendre le sujet) De plus, savez-vous que la personne qui a développé le "logiciel" permettant de lire des DVD sous linux a été poursuit par la justice ;)
+[jeu jan 26 2006] [22:54:18] <famillien>	il va sur internet
+[jeu jan 26 2006] [22:54:19] <Mady>	parce qu'en fait
+[jeu jan 26 2006] [22:54:21] <Pierre>	(moi oui)
+[jeu jan 26 2006] [22:54:27] <Mady>	JJG il en dit quoi exactement ?
+[jeu jan 26 2006] [22:54:44] <Boris_Kavod>	Tout simplement parce que permettre de lire des DVD sous autre chose que windows est apparenté à du contournement de protection...
+[jeu jan 26 2006] [22:54:55] <Boris_Kavod>	donc 3 ans d'emprisonnement dans le cas de la france d'après le texte
+[jeu jan 26 2006] [22:55:11] <mmf>	de toute façon notre jj est un peu dépassé par tout ça je pense :)
+[jeu jan 26 2006] [22:55:20] <Pierre>	completement
+[jeu jan 26 2006] [22:55:25] <Boris_Kavod>	JJG... c'est une bonne idée de replacer le débat ;)
+[jeu jan 26 2006] [22:55:27] <famillien>	vous en savez rien
+[jeu jan 26 2006] [22:55:47] <mmf>	i la tjrs dit que lui et internet ça faisiat 2
+[jeu jan 26 2006] [22:55:51] <Boris_Kavod>	JJG a simplement insisté sur la répression... l'interopérabilité c'est pas vriament son dada en effet ;)
+[jeu jan 26 2006] [22:56:23] <famillien>	ne vous fiez pas a ce qu'il dit et ce qu'il fait
+[jeu jan 26 2006] [22:56:25] <Mady>	oui je n'avais pas compris non plus que le debat allait aussi loin
+[jeu jan 26 2006] [22:56:26] <Boris_Kavod>	C'est moi qui ait appris à JJG ce que voulait dire "webmaster" "forum" ou "chat" ya seulement 2 ans ;)
+[jeu jan 26 2006] [22:56:27] <famillien>	c'est pas pareil
+[jeu jan 26 2006] [22:56:31] <Mady>	(interoperabilité)
+[jeu jan 26 2006] [22:56:37] <mmf>	lol
+[jeu jan 26 2006] [22:56:53] <mmf>	ah oui à marseille !
+[jeu jan 26 2006] [22:56:53] <famillien>	ah bon ?
+[jeu jan 26 2006] [22:56:56] <Mady>	(eh oh t'en profite pas pour te la peter la stp lol)
+[jeu jan 26 2006] [22:57:01] <Boris_Kavod>	mmf> tout à faiche ;)
+[jeu jan 26 2006] [22:57:22] <Boris_Kavod>	Nan, j'en profite pour indiquer que notre interview de JJG est toujours disponible dans la rubrique reportages du site famille ;)
+[jeu jan 26 2006] [22:57:33] <mmf>	et toc de la promo !
+[jeu jan 26 2006] [22:57:36] <manolita>	c'est vrai qu'ànotre age, le net et nous ça fait six
+[jeu jan 26 2006] [22:57:37] <Boris_Kavod>	vala ;)
+[jeu jan 26 2006] [22:57:38] <Mady>	*** PUB ***
+[jeu jan 26 2006] [22:57:40] <Mady>	:)
+[jeu jan 26 2006] [22:57:51] <Pierre>	penser ce probleme en terme de repression c'est bien le signe qu'on a rien compris quand meme
+[jeu jan 26 2006] [22:58:02] <mmf>	tout à fait
+[jeu jan 26 2006] [22:58:11] <mmf>	les choses ne sont pas si simple que ça
+[jeu jan 26 2006] [22:58:32] <Boris_Kavod>	Bref... je confirme simplement que JJG est vraiment vraiment très loin de connaitre les aspects techniques des internautes ;)
+[jeu jan 26 2006] [22:58:40] <Mady>	Et sarko, il en pense quoi ?
+[jeu jan 26 2006] [22:59:09] <mmf>	euh sarko ...il veut passer un coup de karcher sur les pc je crois
+[jeu jan 26 2006] [22:59:24] <Pierre>	sarko il veut que tu votes pour lui en 2007
+[jeu jan 26 2006] [22:59:24] <Mady>	(ptet ca m'aidera a savoir ce que j'en pense ;) aaaaaah le libre arbitre ...)
+[jeu jan 26 2006] [22:59:24] <Mady>	ah
+[jeu jan 26 2006] [22:59:26] <Mady>	mais ca va pas leur faire du bien aux PC le karcher !
+[jeu jan 26 2006] [22:59:30] <famillien>	il faut nettoyer les baladeurs mp3 au karcher
+[jeu jan 26 2006] [22:59:46] <Boris_Kavod>	Nan, sérieusement, Sarko a sorti 6 points sur le sujet
+[jeu jan 26 2006] [23:00:10] <Pierre>	oui j'ai lu aussi
+[jeu jan 26 2006] [23:00:13] <Boris_Kavod>	1. La solution est le développement de l?offre légale: diversité et prix (accessibilité par les prix). Compatibilité des fichiers. 
+[jeu jan 26 2006] [23:00:18] <Boris_Kavod>	2.Le peer to peer est l?économie de l?échange: l?Internet rend accessibles des choses qui ne le seraient pas sinon. Si vous tuez une partie de la création parce que vous avez été au bout de l?accessibilité, l?échange, ce ne sera que quelques artistes et quelques majors (pardon Pascal Nègre, Universal Music). La rémunération doit être attachée au nombre de consultations. 
+[jeu jan 26 2006] [23:00:18] Quitter	mazaelle a quitté le serveur. (Client closed connection)
+[jeu jan 26 2006] [23:00:24] <Boris_Kavod>	3. On ne peut pas accepter le piratage, le piratage doit être défini et sanctionné (le site qui pirate de manière industrielle est particulierement visé). 
+[jeu jan 26 2006] [23:00:28] <Boris_Kavod>	4. Pas de refus de la gratuité pour faire connaître les auteurs qui le souhaitent (JJ Goldman a ajouté qu?il était d?accord, et les maisons de disques le feront aussi) 
+[jeu jan 26 2006] [23:00:32] <Boris_Kavod>	5. Protéger l?open source français 
+[jeu jan 26 2006] [23:00:35] <Boris_Kavod>	6. Promouvoir l?innovation et l?entrepreneuriat, les nouveaux métiers qui découleront de cette transformation, comme la radio libre a permis la création de grandes radios comme NRJ 
+[jeu jan 26 2006] [23:00:52] <Boris_Kavod>	(je tiens à insister sur la fin du point 1 et le point 5 ;)
+[jeu jan 26 2006] [23:00:53] <Pierre>	le piratage n'existe pas, il n'y a que de la contrefacon
+[jeu jan 26 2006] [23:01:14] Joindre	Amelie a rejoint le canal. (~Amelie@Wnet-jzk06h.wanadoo.fr)
+[jeu jan 26 2006] [23:01:18] <Boris_Kavod>	Bonsoir Amelie 
+[jeu jan 26 2006] [23:01:23] <Mady>	'soir amelie
+[jeu jan 26 2006] [23:01:27] <famillien>	bonsoir
+[jeu jan 26 2006] [23:01:27] <mmf>	hey ! Amelie
+[jeu jan 26 2006] [23:01:48] <Pierre>	salut amelie
+[jeu jan 26 2006] [23:01:51] <manolita>	moi je trouve bien le point qui parle de la gratuité pour les nouveaux
+[jeu jan 26 2006] [23:01:54] <Mady>	"open source francais" ?
+[jeu jan 26 2006] [23:01:56] <Aurelie-Ptitchou>	Bonsoir Amelie
+[jeu jan 26 2006] [23:02:06] <mmf>	ben y'a quand meme des enregistrement pirate de concert ...mais bon
+[jeu jan 26 2006] [23:02:11] <Pierre>	Mady: les entreprises qui font du logiciel libre
+[jeu jan 26 2006] [23:02:28] <Boris_Kavod>	Bref... moi ce que j'apprécie vivement là dedans, c'est que malgré le mutisme des médias sur cette aspect de l'interopérabilité et la menace pour l'open source, Sarko a tout de meme traité le sujet et l'a fait ressortir dans sa conclusion
+[jeu jan 26 2006] [23:02:30] <Pierre>	si tu ne sais pas ce que c'est, boris va t expliquer
+[jeu jan 26 2006] [23:02:55] <Amelie>	bonsoir :)
+[jeu jan 26 2006] [23:03:00] <Boris_Kavod>	Mady> le logiciel libre... heu... grand sujet :)
+[jeu jan 26 2006] [23:03:16] <mmf>	de toute façon c'est comme d'hab ...faut que tout le monde y trouve son compte
+[jeu jan 26 2006] [23:03:23] <manolita>	salut amélie
+[jeu jan 26 2006] [23:03:29] <Mady>	:)
+[jeu jan 26 2006] [23:03:59] <Boris_Kavod>	Je te donnerai tout le détails un autre soir ;) Disons que tu peux comparer ca aux logiciels gratuits (pierre va me tuer car ca ne se résume pas du tout à cela... mais ca serait un peu long sinon ;))
+[jeu jan 26 2006] [23:04:34] 	 * Pierre tue Boris_Kavod 
+[jeu jan 26 2006] [23:04:37] <Boris_Kavod>	Pour etre exact en 4 points :
+[jeu jan 26 2006] [23:04:38] <Mady>	lol
+[jeu jan 26 2006] [23:04:42] <Boris_Kavod>	1- librement diffusable
+[jeu jan 26 2006] [23:04:48] <Boris_Kavod>	2- librement modifiable
+[jeu jan 26 2006] [23:05:01] <Boris_Kavod>	(merde, j'ai un trou pour les deux autres)
+[jeu jan 26 2006] [23:05:07] <Mady>	bon et vous n'avez pas un exemple ?
+[jeu jan 26 2006] [23:05:10] <Boris_Kavod>	firefox
+[jeu jan 26 2006] [23:05:13] <Boris_Kavod>	Linux
+[jeu jan 26 2006] [23:05:14] <Mady>	DIEU qu'elle est exigeante !
+[jeu jan 26 2006] [23:05:20] <Amelie>	ça touche quand même moins de perosnne que le problème du téléchargement d'oevre
+[jeu jan 26 2006] [23:05:23] <Pierre>	http://www.gnu.org/philosophy/free-sw.fr.html
+[jeu jan 26 2006] [23:05:25] <Boris_Kavod>	OpenOffice
+[jeu jan 26 2006] [23:05:35] <Boris_Kavod>	emule
+[jeu jan 26 2006] [23:05:36] <Boris_Kavod>	;)
+[jeu jan 26 2006] [23:05:40] <Mady>	ok ok
+[jeu jan 26 2006] [23:06:09] <Boris_Kavod>	Bon, qqun voit qqch à ajouté sur le sujet global ? :)
+[jeu jan 26 2006] [23:06:23] <famillien>	the end
+[jeu jan 26 2006] [23:06:32] <Boris_Kavod>	On va dicter nos 6 points alors LOL
+[jeu jan 26 2006] [23:06:32] <manolita>	j'ajoute que tout ça c'est une histoire de pognon
+[jeu jan 26 2006] [23:06:34] <Pierre>	juste renseignez vous
+[jeu jan 26 2006] [23:06:40] <Pierre>	c un probleme qui nous concerne tous
+[jeu jan 26 2006] [23:06:41] <Boris_Kavod>	Pierre> merci ! :)
+[jeu jan 26 2006] [23:06:54] <Amelie>	mouia alors là aps sur
+[jeu jan 26 2006] [23:06:54] <Boris_Kavod>	je rappelle l'adresse : www.eucd.info
+[jeu jan 26 2006] [23:06:57] <Pierre>	voila
+[jeu jan 26 2006] [23:06:59] <manolita>	et qu'il y a tout plein d'intérets, et que chacun veut en gagner plus et plus
+[jeu jan 26 2006] [23:07:10] <famillien>	c le pouvoir du fric
+[jeu jan 26 2006] [23:07:15] <famillien>	le fric nous dirige !
+[jeu jan 26 2006] [23:07:23] <mmf>	de toute façon ceux qui ont le plus à perdre ce sont les majors c clair
+[jeu jan 26 2006] [23:07:53] <manolita>	moi j'aimerais bien que les auteurs, compositeurs chanteurs aient aussi leur chance
+[jeu jan 26 2006] [23:08:00] <mmf>	quoi que je pense aussi aux imprimeurs des livrets de cd
+[jeu jan 26 2006] [23:08:09] <Pierre>	lisez le point de vue de Renaud sur le sujet
+[jeu jan 26 2006] [23:08:15] <manolita>	et que tout ce pognon là soit unpeu mieux partagé
+[jeu jan 26 2006] [23:08:16] <mmf>	oui bon ok j'ai un pote imprimeur ...:)
+[jeu jan 26 2006] [23:08:21] <Mady>	:)
+[jeu jan 26 2006] [23:08:24] <manolita>	et que les cds soient un peu moins cher pour nous
+[jeu jan 26 2006] [23:08:33] <Boris_Kavod>	Vala... fo pas oublier aussi qu'autour du disque... ya pas que l'auteur/compositeur/interprète qui bosse là desssu
+[jeu jan 26 2006] [23:09:15] <Amelie>	vous savez que le rpix du cd a baissé de 20 % cette année
+[jeu jan 26 2006] [23:09:20] <mmf>	jj n'a t'il pas d'ailleurs remis sur pied une petite usine de métal pour ses boitiers ?
+[jeu jan 26 2006] [23:09:26] <Amelie>	comme quoi on peut faire de schoses mais sans baisse de tva
+[jeu jan 26 2006] [23:09:58] <Pierre>	Amelie: source ?
+[jeu jan 26 2006] [23:10:10] <Boris_Kavod>	musiciens, ingénieur du son, le mixeur, l'imprimeur, le créateur graphique de la jaquette, la boite qui produit le support, qui le transporte, qui le distribue en grande surface...
+[jeu jan 26 2006] [23:10:36] <Pierre>	y aura toujours des morceaux réalisés hein
+[jeu jan 26 2006] [23:10:40] <famillien>	le type qui recycle le papier pour faire la jaquette
+[jeu jan 26 2006] [23:10:48] <Amelie>	la presse
+[jeu jan 26 2006] [23:10:51] <Aurelie-Ptitchou>	Bon je vais vous laisser
+[jeu jan 26 2006] [23:10:54] <Amelie>	et mon expérience perso
+[jeu jan 26 2006] [23:11:01] <Aurelie-Ptitchou>	Je suis contente d'etre venue et d'avoir appris des choses !
+
+*** Historique démarré
+*** le jeu jan 26 23:11:53 2006
+
+[jeu jan 26 2006] [23:11:53] Joindre	Vous avez rejoint le canal #ensemble. (~Boris@Wnet-dkweiq.nerim.net)
+[jeu jan 26 2006] [23:11:53] Sujet	Le sujet du canal est « Chat consacré à Jean-Jacques Goldman http://www.jjgfamille.com/chat/ ».
+[jeu jan 26 2006] [23:11:53] Sujet	Le sujet a été défini par Boris[away] le 26.09.2005 17:45:01.
+[jeu jan 26 2006] [23:11:53] Noms	Fin de la liste de NOMS.
+[jeu jan 26 2006] [23:11:53] Mode	Gaia vous donne les privilèges d'opérateur du canal.
+[jeu jan 26 2006] [23:11:53] Mode	Modes de canaux : protection de sujet, aucun message de l'extérieur, Réop. serveur
+[jeu jan 26 2006] [23:11:53] Créé	Ce canal a été crée le 06.01.2006 07:55:01.
+[jeu jan 26 2006] [23:11:57] <Pierre>	ben alors
+[jeu jan 26 2006] [23:11:57] <Amelie>	ba non ms y a de spertes en ce moement ;)
+[jeu jan 26 2006] [23:12:02] <Amelie>	tsssssss
+[jeu jan 26 2006] [23:12:02] <Mady>	Boris, si tu plantes aussi
+[jeu jan 26 2006] [23:12:03] <mmf>	les gros ne font plus le million ?
+[jeu jan 26 2006] [23:12:05] <Mady>	ca vapas !
+[jeu jan 26 2006] [23:12:10] <Amelie>	rares
+[jeu jan 26 2006] [23:12:15] <Boris_Kavod>	... le mec qui vend les CDs vierges et le logiciel de gravure pour qu'on puisse le graver... :)
+[jeu jan 26 2006] [23:12:16] CTCP	Requête de version reçue de Pierre.
+[jeu jan 26 2006] [23:12:18] <Amelie>	cabrel, lorie, sardou...
+[jeu jan 26 2006] [23:12:21] <Boris_Kavod>	(roooo, dsl, fausse manip ;)
+[jeu jan 26 2006] [23:12:23] <Amelie>	ils l'nt pa sfait le million
+[jeu jan 26 2006] [23:12:25] <Aurelie-Ptitchou>	bye boris (qui a planté en cours de route)
+[jeu jan 26 2006] [23:12:27] <Amelie>	ou alros sur uen année
+[jeu jan 26 2006] [23:12:32] <Amelie>	avant c'était sur 2 mois
+[jeu jan 26 2006] [23:12:34] <mmf>	lorie ça me rassure :)
+[jeu jan 26 2006] [23:12:36] <Boris_Kavod>	@++ Aurelie-Ptitchou 
+[jeu jan 26 2006] [23:12:38] <Amelie>	voir 3 semaien spour cplp
+[jeu jan 26 2006] [23:12:39] Quitter	Aurelie-Ptitchou a quitté le serveur. (Quit: Parti)
+[jeu jan 26 2006] [23:12:42] <Mady>	bisous aurélie
+[jeu jan 26 2006] [23:12:43] <famillien>	le chinois qui fabrique les cd a 0,01 euro en chine
+[jeu jan 26 2006] [23:12:45] <Mady>	oups
+[jeu jan 26 2006] [23:13:16] <Boris_Kavod>	tout ca à cause de la mondialisation ;)
+[jeu jan 26 2006] [23:13:18] <manolita>	les jeunes je vais me coucher moi
+[jeu jan 26 2006] [23:13:26] <mmf>	ok mais pour les gens c énorme ...
+[jeu jan 26 2006] [23:13:30] <famillien>	si manolita part je pars aussi !
+[jeu jan 26 2006] [23:13:31] <Boris_Kavod>	Tiens, question aussi... la license globale vous, vous en pensez quoi ?
+[jeu jan 26 2006] [23:13:35] <manolita>	bonne nuit à tous
+[jeu jan 26 2006] [23:13:39] <mmf>	bye
+[jeu jan 26 2006] [23:13:40] <Boris_Kavod>	bonne nuit manolita 
+[jeu jan 26 2006] [23:13:43] <famillien>	bonne nuit
+[jeu jan 26 2006] [23:13:50] <Boris_Kavod>	(on finira là dessus)
+[jeu jan 26 2006] [23:13:55] Quitter	famillien a quitté le serveur. (Quit: famillien)
+[jeu jan 26 2006] [23:13:59] <Amelie>	bizou manue et famillien
+[jeu jan 26 2006] [23:14:02] <manolita>	contente d'etre venue, j'ai appris plein de truc ce soir
+[jeu jan 26 2006] [23:14:06] <Amelie>	au fait c'était qui le famillien ?
+[jeu jan 26 2006] [23:14:06] <mmf>	le forfait là ?
+[jeu jan 26 2006] [23:14:10] <Boris_Kavod>	mmf> ouaip
+[jeu jan 26 2006] [23:14:18] <Amelie>	à chier
+[jeu jan 26 2006] [23:14:21] <mmf>	ben on enparlait un peu tout à l'heure non ?
+[jeu jan 26 2006] [23:14:25] <Mady>	ouais c'est vrai qu'on a appris des trucs
+[jeu jan 26 2006] [23:14:26] <Amelie>	même les artistes "de gauche" ont rpalé
+[jeu jan 26 2006] [23:14:32] <manolita>	bisouuuuuu amélie, bonsoir tous
+[jeu jan 26 2006] [23:14:35] <Mady>	ne serait ce qu'a coprendre le debat :)
+[jeu jan 26 2006] [23:14:39] <mmf>	c clairemant inadmissible
+[jeu jan 26 2006] [23:15:05] <Boris_Kavod>	Je me demande surtout par rapport à cela : comment le redistribuer (en terme le partage)
+[jeu jan 26 2006] [23:15:17] <mmf>	ouh la ...
+[jeu jan 26 2006] [23:15:28] Quitter	manolita a quitté le serveur. (Quit: manolita)
+[jeu jan 26 2006] [23:15:32] <Boris_Kavod>	Comment va-t-on savoir que JJG a été téléchargé à 0,X% de tous les échanges internet ?
+[jeu jan 26 2006] [23:15:46] <Pierre>	c'est pas possible
+[jeu jan 26 2006] [23:15:50] <Amelie>	parcequ'ils se sotn basé sur le fonctionnement des cassettes
+[jeu jan 26 2006] [23:15:52] <Boris_Kavod>	Impossible en effet :)
+[jeu jan 26 2006] [23:16:02] <mmf>	infaisable et totalement ridicule comme idée
+[jeu jan 26 2006] [23:16:10] <Amelie>	il y a uen atxe de 7% sur els produist cvierges (casette, cd, lecteur mp3
+[jeu jan 26 2006] [23:16:13] <Pierre>	tu crois que pour la radio ils payent les artistes en fonction de ce qu'ils sont diffusés ?
+[jeu jan 26 2006] [23:16:19] <Amelie>	bien surlol
+[jeu jan 26 2006] [23:16:28] <Pierre>	ben non
+[jeu jan 26 2006] [23:16:30] <Amelie>	on peut trouver le nombre exate d asse radio de chaque chanson
+[jeu jan 26 2006] [23:16:37] <Boris_Kavod>	ben si !!! Il me semble
+[jeu jan 26 2006] [23:16:42] <Amelie>	biensur !!!
+[jeu jan 26 2006] [23:16:44] <mmf>	il me semblait aussi
+[jeu jan 26 2006] [23:16:52] <Amelie>	chaque année, on a la chanson la plsu diffusée avce chiffes exatc
+[jeu jan 26 2006] [23:16:55] <Pierre>	le nombre exact laisse moi rire :)
+[jeu jan 26 2006] [23:16:59] <Amelie>	ben si
+[jeu jan 26 2006] [23:17:15] <Pierre>	les radios elles payent un forfait
+[jeu jan 26 2006] [23:17:16] <mmf>	bon je plaint juste le gars qui compte tout les passages c tout
+[jeu jan 26 2006] [23:17:16] <Amelie>	les radios ont des maxi archives, pour vori ce que préère son auditeur
+[jeu jan 26 2006] [23:17:20] <Boris_Kavod>	Chaque radio doit comptabiliser les titres qu'elle passe
+[jeu jan 26 2006] [23:17:26] <Amelie>	c automatique
+[jeu jan 26 2006] [23:17:29] <Pierre>	Boris_Kavod: en theorie
+[jeu jan 26 2006] [23:17:38] <Amelie>	chaque semaine sils avent exactement quelle chanson passe et à quel fréquzence
+[jeu jan 26 2006] [23:17:47] <Boris_Kavod>	Pas bien compliqué... je le fais avec gnump3 ;)
+[jeu jan 26 2006] [23:17:48] <Amelie>	c très théorique et étudié en focntion de sauditeurs
+[jeu jan 26 2006] [23:17:48] <mmf>	et à quelle heure
+[jeu jan 26 2006] [23:17:57] <mmf>	les grilles de programation sont super précise
+[jeu jan 26 2006] [23:17:57] <Amelie>	ouai
+[jeu jan 26 2006] [23:18:12] <Boris_Kavod>	ne serait-ce que pour les quotas de production francaise
+[jeu jan 26 2006] [23:18:16] <Pierre>	non mais ils le savent en interne
+[jeu jan 26 2006] [23:18:28] <Pierre>	mais la liste qu'ils donnent a la sacem c pas forcement la meme
+[jeu jan 26 2006] [23:18:39] <Pierre>	ya des gars de la sacem qui snot payés pour ecouter
+[jeu jan 26 2006] [23:18:42] <Boris_Kavod>	Je crois fortement (je tenterai de le confirmer dans les jours à venir) qu'ils le transmettent à la sasem
+[jeu jan 26 2006] [23:18:44] <Pierre>	mais bon ils peuvent pas tout ecouter
+[jeu jan 26 2006] [23:18:47] <mmf>	ah parés y'a surement un petit pourcentage d'erreur
+[jeu jan 26 2006] [23:19:11] <Pierre>	et apres la sacem ils redistribuent comme ils veulent
+[jeu jan 26 2006] [23:19:25] <Amelie>	pas "comme isl veulent"
+[jeu jan 26 2006] [23:19:34] <mmf>	je sais pas mais à mon avis c hyper reglementé
+[jeu jan 26 2006] [23:19:35] <Amelie>	c hyper réglementé et très difficile de tricher
+[jeu jan 26 2006] [23:19:35] <Boris_Kavod>	Bah je me renseignerai, ok :)
+[jeu jan 26 2006] [23:19:41] <Pierre>	si je t'assure
+[jeu jan 26 2006] [23:19:46] <Pierre>	ok on se renseigne tous
+[jeu jan 26 2006] [23:19:51] <Pierre>	et on refait un debat
+[jeu jan 26 2006] [23:20:11] <mmf>	ok :)
+[jeu jan 26 2006] [23:20:13] <Amelie>	g déja fait des news dessus
+[jeu jan 26 2006] [23:20:24] <Boris_Kavod>	;) je le mettrai sur le forum et te l'indiquerai au cas où tu loupes une journée de lecture intensive de forum famille ;)
+[jeu jan 26 2006] [23:20:28] <Amelie>	quand JJg ets el rpemeir artiste diffusé en radio, on sait exactement combiend fosi il ets passé
+[jeu jan 26 2006] [23:20:43] <mmf>	oui souvent ils nous donne le top 3
+[jeu jan 26 2006] [23:20:57] <Pierre>	mais c des estimations
+[jeu jan 26 2006] [23:21:12] <Boris_Kavod>	D'ailleurs ouais, je recois hebdomadairement le classement de disqueenfrance.com qui donne ces stats
+[jeu jan 26 2006] [23:21:21] <mmf>	tu le recois ?
+[jeu jan 26 2006] [23:21:28] <Boris_Kavod>	ouais, ya une ML
+[jeu jan 26 2006] [23:21:31] <mmf>	lol
+[jeu jan 26 2006] [23:21:39] <mmf>	tu dois avoir un de ces courriers toi !
+[jeu jan 26 2006] [23:21:56] <Boris_Kavod>	je te raconte pas, 7 ans d'archives mails ! :)
+[jeu jan 26 2006] [23:22:11] <Boris_Kavod>	hum... 8 maintenant :)
+[jeu jan 26 2006] [23:22:42] <Boris_Kavod>	Bon, sur ces mots, je vous remercie de votre participation, en espérant vous revoir pour un prochain débat ;)

@@ -1,0 +1,13 @@
+RewriteEngine On 
+RewriteRule ^index.html /medias/
+
+RewriteRule ^mediatheque.html /medias/medias.php
+
+RewriteRule ^reportages.html /medias/reportages.php
+
+RewriteRule ^(emission|article)-.*-([0-9]+)\.html /medias/view_emission.php?emission_id=$2
+RewriteRule ^goldman-dans-.*-([0-9]+)\.html /medias/support.php?support_id=$1
+RewriteRule ^retranscription-.*-([0-9]+)\.html /medias/retranscription.php?retranscription_id=$1
+
+RewriteRule ^sitemap\.xml$ /medias/sitemap.php
+

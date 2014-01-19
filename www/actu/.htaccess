@@ -1,0 +1,19 @@
+RewriteEngine On 
+RewriteRule ^index.html /actu/
+
+RewriteRule ^n([0-9]*)\.html$ /actu/news.php?mois=$1
+RewriteRule ^n([0-9]*)-.* /actu/news.php?news_id=$1
+RewriteRule ^news\.html$ /actu/news.php
+
+RewriteRule ^e([0-9]*)-.* /actu/edito.php?edito_id=$1
+RewriteRule ^edito\.html$ /actu/edito.php
+RewriteRule ^edito_archives\.html$ /actu/edito_archives.php
+
+RewriteRule ^m([0-9]*)-.* /actu/maj.php?maj_id=$1
+RewriteRule ^maj\.html$ /actu/maj.php
+
+RewriteRule ^r([0-9]*)-.* /actu/rdn.php?rdn_id=$1
+RewriteRule ^rdn\.html$ /actu/rdn.php
+
+RewriteRule ^sitemap\.xml$ /actu/sitemap.php
+

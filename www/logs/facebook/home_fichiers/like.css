@@ -1,0 +1,27 @@
+/*    HTTP Host:  static.ak.fbcdn.net                                          */
+/*    Generated:  March 25th 2009 3:28:15 PM PDT                               */
+/*      Machine:  10.16.139.106                                                */
+/*       Source:  Local Cache                                                  */
+/*     Location:  rsrc:8fkujrwg:en_US:/html/css/like/like.css                  */
+/*       Locale:  en_US                                                        */
+/*         Path:  css/like/like.css                                            */
+
+
+.like_box{overflow:hidden;}
+.like_box .pictures_container{padding-top:5px;}
+.commentable_item .like_box .wallpost{padding-bottom:0px;}
+.no_likes{display:none;}
+.like_box .like_sentence_container{padding:0px 0px 5px 0px;position:relative;overflow:hidden;}
+.like_sentence{padding-top:1px;}
+.like_exists .like_sentence_not_exists,
+.like_not_exists .like_sentence_exists{position:absolute;top:0;left:0;}
+.like_box_thumb_icon{float:left;display:block;width:15px;margin-left:1px;margin-right:4px;}
+.like_box_thumb_icon:hover{text-decoration:none;}
+.like_sentence_not_exists .like_box_thumb_icon{background:url(/images/like/like_off.gif) no-repeat top left;}
+.like_sentence_exists .like_box_thumb_icon{background:url(/images/like/like_on.gif) no-repeat top left;}
+.like_box .like_users{margin-left:6px;width:320px;}
+.like_exists .like_component_not_exists{display:none;}
+.like_not_exists .like_component_exists{display:none;}
+
+
+#bootloader_css_like_like_css { height: 42px; }

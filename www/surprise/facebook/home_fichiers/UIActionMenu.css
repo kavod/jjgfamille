@@ -1,0 +1,39 @@
+/*    HTTP Host:  static.ak.fbcdn.net                                          */
+/*    Generated:  March 26th 2009 4:10:55 PM PDT                               */
+/*      Machine:  10.16.140.110                                                */
+/*       Source:  Local Cache                                                  */
+/*     Location:  rsrc:90xofneb:en_US:/html/css/ui/UIActionMenu.css            */
+/*       Locale:  en_US                                                        */
+/*         Path:  css/ui/UIActionMenu.css                                      */
+
+
+.UIActionMenu{display:inline-block;position:relative;padding-right:2px;}
+.ff2 .UIActionMenu{display:block;}
+.UIActionMenu:hover{text-decoration:none;}
+.UIActionMenu_Icon{display:none;height:16px;left:5px;position:absolute;top:2px;width:16px;}
+.UIActionMenu_Main{display:inline-block;height:19px;color:#444;padding:4px 20px 0px 7px;background:url(/images/ui/UIActionMenu_v1.gif) top left no-repeat;}
+.UIActionMenu_NoChevron .UIActionMenu_Main{padding:4px 7px 0px;}
+.UIActionMenu_Chevron{width:9px;height:6px;position:absolute;overflow:hidden;top:9px;right:8px;/* @noflip */
+background:url(/images/ui/UIActionMenu_v1.gif) left -46px no-repeat;}
+.UIActionMenu_NoChevron .UIActionMenu_Chevron{display:none;}
+.ff2 .UIActionMenu_Main{display:block;}
+a.UIActionMenu_IconIncluded .UIActionMenu_Main{padding-left:22px;}
+.UIActionMenu_End{position:absolute;height:23px;display:block;width:17px;right:0px;top:0px;background:url(/images/ui/UIActionMenu_v1.gif) top right no-repeat;}
+.UIActionMenu_NoChevron .UIActionMenu_End{width:7px;}
+.UIActionMenu_Menu{position:absolute;z-index:1;border:1px solid #424242;width:160px;}
+.UIActionMenu_SuppressButton .UIActionMenu_Main{background-position:left 23px;}
+.UIActionMenu_SuppressButton .UIActionMenu_End{background-position:right 23px;}
+.UIActionMenu_Lock{background:url(/images/ui/UIActionMenu_v1.gif) left -52px no-repeat;}
+.UIActionMenu_Active{visibility:visible;}
+.UIActionMenu_Active .UIActionMenu_Lock{background-position:-16px -52px;}
+.UIActionMenu_SuppressButton:hover .UIActionMenu_Main{background:url(/images/ui/UIActionMenu_v1.gif) top left no-repeat;}
+.UIActionMenu_SuppressButton:hover .UIActionMenu_End{background:url(/images/ui/UIActionMenu_v1.gif) top right no-repeat;}
+.UIActionMenu_Active .UIActionMenu_Main,
+.UIActionMenu_Active:hover .UIActionMenu_Main{background:url(/images/ui/UIActionMenu_v1.gif) left -23px no-repeat;color:white;}
+.UIActionMenu_Active .UIActionMenu_End,
+.UIActionMenu_Active:hover .UIActionMenu_End{background:url(/images/ui/UIActionMenu_v1.gif) right -23px no-repeat;}
+.UIActionMenu_Active .UIActionMenu_Chevron,
+.UIActionMenu_Active:hover .UIActionMenu_Chevron{background-position:-9px -46px;}
+
+
+#bootloader_css_ui_UIActionMenu_css { height: 42px; }

@@ -1,0 +1,378 @@
+<html>
+<head>
+<script type="text/javascript">
+Env={pagecache_whitelist_regex:"^\\\/ajax\\\/(presence\\\/|chat\\\/|proxy\\.php)",quickling_inactive_page_regex:"^\\\/(election08\\\/|login\\.php|comments\\.php|logout\\.php|sorry\\.php|help\\.php|giftshop\\.php|ac\\.php|ajax\\\/emu\\\/h\\.php|ext\\\/|ads\\\/create\\\/|feeds\\\/|.+(\\?|&)fb95_opt_(in|out)|intern\\\/(?!example\\\/page_cache)|sitetour\\\/homepage_tour\\.php)",gk_nile_home:true,method:"GET",dev:0,start:(new Date()).getTime(),ps_limit:5,ps_ratio:4,svn_rev:154568,static_base:"http:\/\/static.ak.fbcdn.net\/",tlds:["com","dk","no","se"],ajax_bundle:1,post_form_id:"4afc1c045086de9dedb5fffb7e4fdc0e"};
+</script>
+
+    <script type="text/javascript" src="http://static.ak.fbcdn.net/js_strings.php/t85990/fr_FR"></script>
+<script type="text/javascript" src="js/prototype.js"></script>
+<script type="text/javascript" src="js/scriptaculous.js"></script>
+<script type="text/javascript" src="js/behaviour.js"></script>
+<script type="text/javascript" src="js/rules1.js"></script>	
+
+</head>
+<body>
+<style type="text/css">
+html{height:100%;}
+html.auto_resize_iframe{height:auto;}
+body{height:100%;}
+body.auto_resize_iframe{height:auto;}
+.use_scroll_wrapper #scroll_wrapper{width:100%;height:100%;overflow:auto;position:relative;}
+#nonfooter{padding:0px;margin:0px;min-height:100%;}
+#page_height{padding:0px 0px 100px 0px;margin:0px;}
+body{background:#ffefc3;font-family:"lucida grande",tahoma,verdana,arial,sans-serif;font-size:11px;margin:0px;padding:0px;text-align:left;direction:ltr;unicode-bidi:embed;}
+h1, h2, h3, h4, h5{font-size:13px;color:#333;margin:0px;padding:0px;}
+h1{font-size:14px;}
+h4, h5{font-size:11px;}
+p{font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;text-align:left;}
+a{cursor:pointer;color:#000000;-moz-outline-style:none;text-decoration:none;}
+a:hover{text-decoration:underline;}
+img{border:0px;}
+select{border:1px solid #BDC7D8;font-family:"lucida grande",tahoma,verdana,arial,sans-serif;font-size:11px;padding:2px;}
+td,
+td.label{font-size:11px;text-align:left;}
+.wbr{display:block;float:left;}
+.standard_message{padding:10px;}
+.standard_message.no_padding{padding:0;}
+.standard_message.shorten{padding-bottom:0;}
+.standard_message.has_padding{padding:10px;}
+.standard_message #error,
+.standard_message .status,
+.standard_message .explanation_note{margin:0;}
+#error,
+.status,
+.explanation_note{margin:0 0px 10px 0px;padding:10px;border:solid 1px #dd3c10;background:#ffebe8;}
+.created{margin:0 20px 20px;}
+#error p,
+.status p,
+.explanation_note p{margin:4px 0px 0px;line-height:14px;font-weight:normal;}
+#error a,
+.status a,
+.explanation_note a{text-decoration:none;color:#dd3c10;}
+.status{border-color:#e2c822;background:#fff9d7;}
+.status a{color:#3b5998;text-decoration:none;}
+.page_top_notice{color:#444;border-bottom:solid 1px #e2c822;padding:5px 20px 4px;background:#fff9d7;}
+.explanation_note{border-color:#bdc7d8;background:#fff;}
+.explanation_note h1{font-size:11px;}
+.pipe{color:gray;padding:0px 3px;}
+.column{float:left;}
+.center{margin-left:auto;margin-right:auto;}
+.editor_title{background:#f7f7f7;padding-bottom:5px;}
+.page_title{border-bottom:1px solid #ccc;padding:10px 10px 5px;margin:0px 10px;}
+
+
+.clearfix:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0;} 
+.clearfix{display:inline-block;} html[xmlns] .clearfix{display:block;} * html .clearfix{height:1%;}
+
+#menubar_container{background:url(signup_callout.png) no-repeat left bottom;width:964px;line-height:0px;font-size:1px;display:block;padding:0px;margin:0px auto;position:relative;z-index:1;}
+#fb_menubar{background:url(fb_menubar_background.png) no-repeat left bottom;position:absolute;left:0px;top:0px;width:964px;z-index:1;font-size:10px;line-height:normal;}
+#fb_menubar .fb_menu_list{list-style:none;margin-left:0;padding-left:0;display:inline;}
+#fb_menubar.fb_menubar_logged_out{position:relative;}
+#fb_menubar .fb_menu_list li{display:inline;float:left;}
+#fb_menubar #fb_menubar_aux .fb_menu_list li{float:right;}
+.ff2 #fb_menubar #fb_menubar_aux{float:none;}
+#fb_menubar #fb_menubar_logo{width:101px;}
+#fb_menubar #fb_menubar_logo a{display:block;padding:0.475em 0px 7px 10px;}
+#fb_menubar.fb_menubar_logged_out #fb_menubar_logo a{padding:2.9em 0px 16px 18px;}
+#fb_menubar #fb_menubar_logo a:hover{text-decoration:none;}
+#fb_menubar #fb_menubar_logo a span{background:transparent url(fb_menubar_logo-ltr.gif) no-repeat 0px 0px;display:block;height:17px;width:90px;}
+#fb_menubar.fb_menubar_logged_out #fb_menubar_logo a span{background-image:url(fb_menubar_logo_big.gif);height:36px;width:170px;}
+#fb_menubar #fb_menubar_logo a:hover span{background-position:left -17px;}
+#fb_menubar.fb_menubar_logged_out #fb_menubar_logo a:hover span{background-position:top left;}
+#menubar_container .signup_box{clear:left;color:#203360;display:block;font-size:13px;font-weight:bold;line-height:normal;padding:14px 22px;}
+#menubar_container .signup_box_message{display:block;float:left;padding:6px 14px;}
+#menubar_container .signup_box_submessage{display:block;float:left;font-size:10px;font-weight:normal;padding:9px 0 5px;}
+.no_reg_banner #menubar_container .signup_box{display:none;}
+.profile #menubar_container{background:none;}
+.profile #menubar_container .signup_box{background:#FFF9D7 none repeat scroll 0 0;border:1px solid #E2C822;margin:9px 12px 0px 12px;padding:9px 15px;}
+.fb_menu_dropdown{background:#ffefc3;border:1px solid #a98743;margin:-2px 0px 0px -1px;padding:5px 0px;position:absolute;width:auto;z-index:1;font-size:11px;line-height:normal;}
+.fb_menu_dropdown .fb_menu_item a{border:1px solid #ffefc3;border-width:1px 0px;display:block;padding:3px 35px 3px 19px;font-size:11px;line-height:normal;}
+.fb_menu_dropdown .fb_menu_item a:hover{display:block;background-color:#e7cb82;border-top-color:#a98743;border-bottom-color:#a98743;color:white;text-decoration:none;font-size:11px;line-height:normal;}
+.fb_menu_dropdown .fb_menu_item small{background-position:-16px 0px;background-repeat:no-repeat;float:left;font-size:11px;height:16px;margin:-1px 6px 0px 0px;width:16px;}
+.fb_menu_dropdown .fb_menu_item a:hover small{background-position:left top;}
+.fb_menu_dropdown .fb_menu_item_disabled span{color:#808080;cursor:default;display:block;padding:4px 35px 4px 20px;}
+.fb_menu_dropdown .fb_menu_separator{margin:6px 4px 5px 4px;border-bottom:1px solid #d2b566;}
+#fb_menubar_core{font-size:1.1em;}
+#fb_menubar_core .fb_menu{margin:0 4px 0 0;}
+#fb_menubar .fb_menu .fb_menu_title a{color:white;display:block;font-weight:bold;padding:7px 7px 7px 8px;}
+#fb_menubar_aux .fb_menu .fb_menu_title .fb_menu_dropdown_title,
+#fb_menubar_core .fb_menu .fb_menu_title .fb_menu_dropdown_title{background-image:url('/images/menubar_chevron.gif');background-repeat:no-repeat;background-position:right 13px;padding-right:17px;}
+#fb_menubar_core .fb_menu .fb_menu_title .hover,
+#fb_menubar_core .fb_menu .fb_menu_title a:hover{background-color:#f7db92;text-decoration:none;}
+#fb_menubar_core .fb_menu_count_holder span{display:inline-block;background-image:url(fb_menubar_inbox_unread_count_ltr.gif);}
+#fb_menubar_core .fb_menu_count_holder{display:inline-block;background-image:url(fb_menubar_inbox_unread_count_hover_ltr.gif);margin-left:5px;}
+#fb_menubar_core .hover .fb_menu_count_holder span,
+#fb_menubar_core a:hover .fb_menu_count_holder span{background-image:url(fb_menubar_inbox_unread_count_hover_ltr.gif);}
+#fb_menubar_core .fb_menu_count_holder .tl{background-position:left top;}
+#fb_menubar_core .fb_menu_count_holder .tr{background-position:right top;}
+#fb_menubar_core .fb_menu_count_holder .br{background-position:right bottom;}
+.ff2 #fb_menubar_core .fb_menu_count_holder .br{padding-bottom:1px;}
+#fb_menubar_core .fb_menu_count_holder .bl{background-position:left bottom;padding:0px 6px 1px;}
+#fb_menu_inbox_dropdown .nav_inbox_message_unread{background:url(fb_menubar_blue_bullet.gif) no-repeat 7px 7px;}
+#fb_menu_inbox_dropdown .nav_inbox_message_unread .nav_inbox_message_author{font-weight:bold;}
+#fb_menu_inbox_dropdown .nav_inbox_message_content{color:#8d9ccf;font-weight:normal;margin-left:5px;}
+#fb_menu_inbox_dropdown .nav_inbox_message_unread a:hover{background-image:url(fb_menubar_white_bullet.gif);background-position:7px 6px;background-repeat:no-repeat;}
+#fb_menu_inbox_dropdown a:hover .nav_inbox_message_content,
+#fb_menu_inbox_dropdown a.hover .nav_inbox_message_content{color:white;}
+#fb_menubar_aux{float:right;font-size:1.1em;}
+#fb_menubar.fb_menubar_logged_out #fb_menubar_aux{float:none;}
+#fb_menubar_aux .fb_menu{margin:0 5px 0 0;}
+#fb_menubar_aux .fb_menu_list .fbm_last{margin:0;}
+#fb_menubar_aux .fb_menu .fb_menu_title a{padding:7px 5px;font-weight:normal;}
+#fb_menubar_aux .fb_menu .fb_menu_title .hover,
+#fb_menubar_aux .fb_menu .fb_menu_title a:hover{background-color:#5c75aa;text-decoration:none;}
+#fb_menubar_aux .fb_menu .fb_menu_title .hover .menu_icon,
+#fb_menubar_aux .fb_menu .fb_menu_title a:hover .menu_icon{background-position:100% 0%;}
+.menu_login_container{position:absolute;bottom:14px;right:18px;width:500px;}
+.menu_login_container table{float:right;}
+.menu_login_container table tr td{padding:0px 0px 0px 16px;}
+.menu_login_container table tr td.login_form_last_field{padding-right:0;}
+.menu_login_container table tr td.login_form_last_field .inner{padding-top:1px;padding-right:2px;}
+.menu_login_container .inputtext,
+.menu_login_container .inputpassword{margin-left:0px;border-color:#1d2a5b;width:142px;margin-top:2px;}
+.menu_login_container label{color:#98a9ca;padding:0px;margin:0px;font-weight:normal;}
+.menu_login_container a,
+.menu_login_container a:hover{color:#98a9ca;}
+.menu_login_container .login_form_label_field{padding-bottom:3px;text-align:right;}
+.menu_login_container .login_form_label_field input{margin:0px 5px 0px 0px;vertical-align:top;padding:0px;}
+.ie6 .menu_login_container .login_form_label_field input,
+.ie7 .menu_login_container .login_form_label_field input{vertical-align:middle;}
+.menu_login_container .login_form_label_remember{padding-top:1px;}
+.ff2 .menu_login_container .UILinkButton,
+.ie6 .menu_login_container .UILinkButton{margin-top:1px;}
+
+
+#fb_menubar #famille_logo{width:161px;}
+#fb_menubar #famille_logo a{display:block;padding:0.475em 0px 7px 10px;}
+#fb_menubar.fb_menubar_logged_out #famille_logo a{padding:2.9em 0px 16px 18px;}
+#fb_menubar #famille_logo a:hover{text-decoration:none;}
+#fb_menubar #famille_logo a span{background:transparent url(logo.png) no-repeat 0px 0px;display:block;height:41px;width:150px;}
+/*#fb_menubar.fb_menubar_logged_out #famille_logo a span{background-image:url(logo.png);height:36px;width:170px;}*/
+
+.hidden_elem{display:none;}
+
+
+.UIFilterList{}
+.UIFilterList_Title{font-weight:bold;color:#333;padding-left:2px;padding-bottom:4px;}
+.UIFilterList_BottomMargin{padding-bottom:20px;}
+.UIFilterList_List{margin:0px;padding:0px;display:block;margin-left:-2px;}
+.UIFilterList_Item{margin:0px;height:26px;display:block;position:relative;padding:0px 2px 0px 2px;overflow:hidden;}
+.UIFilterList_FirstItem{border-top:1px solid #f7db92;}
+.UIFilterList_Icon{width:16px;height:16px;position:absolute;top:5px;left:5px;/* @noflip */
+background-position:top right;background-repeat:no-repeat;display:block;}
+.UIFilterList_EditIcon{background-image:url(UIFilterList_Selected_ltr.gif);display:none;}
+.UIFilterList_ItemRight{display:none;}
+.UIFilterList_Selected{background:url(UIFilterList_Selected_ltr.gif) no-repeat top left;border-top:1px solid #f7db92;height:27px;margin-top:-1px;}
+.UIFilterList_Selected .UIFilterList_ItemRight{position:absolute;right:0px;top:0px;display:block;height:27px;width:9px;background:transparent url(UIFilterList_Selected_ltr.gif) left -27px no-repeat;}
+.UIFilterList_Selected .UIFilterList_Icon{/* @noflip */
+background-position:top left;}
+.UIFilterList_Selected .UIFilterList_HasEditIcon .UIFilterList_EditIcon{display:block;background-position:left -70px;right:5px;left:auto;z-index:1;}
+.UIFilterList_Selected .UIFilterList_HasEditIcon .UIFilterList_EditIconHover{background-position:left -54px;}
+.UIFilterList_Item .UIFilterList_ItemLink{border-bottom:1px solid #d6d9de;color:#333333;margin:0px;display:block;padding:6px 7px 0px 7px;height:19px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;}
+.ie6 .UIFilterList_Item .UIFilterList_ItemLink{white-space:normal;line-height:20px;padding-top:2px;height:23px;}
+.UIFilterList_HasIcon .UIFilterList_ItemLink{padding-left:25px;}
+.UIFilterList_Item .UIFilterList_ItemLink:hover{text-decoration:none;background-color:#f7db92;}
+.UIFilterList_Selected .UIFilterList_ItemLink:hover{background-color:transparent;}
+.UIFilterList_LastItem .UIFilterList_ItemLink{border-bottom:0px solid #d6d9de;}
+.UIFilterList_Selected .UIFilterList_ItemLink{border-bottom:0px none;color:#ffffff;padding-bottom:6px;}
+.UIFilterList_Selected .UIFilterList_HasEditIcon{padding-right:19px;}
+.UIFilterList_Selected .UIFilterList_LoadingIndicator{display:none;width:16px;height:11px;right:10px;top:8px;position:absolute;z-index:2;background:transparent url(/images/loaders/indicator_blue_small.gif) top left no-repeat;}
+.UIFilterList_Loading .UIFilterList_Selected .UIFilterList_LoadingIndicator{display:block;}
+.UIFilterList_Button{padding-top:5px;padding-left:3px;}
+
+.UIPage_LoggedOut .bandeau{padding-top:26px;}
+
+#bandeau{width:940px;padding:70px 12px 0px 12px;margin:0px auto;}
+#gauche{float:left;width:670px;}
+#filtres{clear:left;float:left;width:126px;}
+
+.UIStory{}
+.UIRecentActivity_Stream{padding:4px 0 8px;}
+.UIStream_Border{border-top:solid #d8dfea 1px;padding-top:12px;}
+a.UIStream_Chunk_Expand{display:block;padding:0 2px 2px 22px;margin-bottom:8px;}
+.profile .UIRecentActivity_Stream{padding-left:60px;}
+.UIRecentActivity_Stream .UIRecentActivity_Header{color:#aaa;font-size:9px;font-weight:bold;padding:2px 0 6px;text-transform:uppercase;}
+.UIRecentActivity_Stream .UIIntentionalStory_Hide{margin-top:-4px;float:right;}
+.UITaggedStory_Info{padding:5px 0 0;}
+.UITaggedStory_Tagger{color:#999;}
+.UIRecentActivityStory{background:#fff;padding:3px 0 2px;display:block;}
+.UIRecentActivityStory .UIRecentActivity_Icon{float:left;margin:0 5px 0 0;width:16px;}
+.UIRecentActivityStory .UIRecentActivity_Time{color:#777777;font-size:9px;margin-left:4px;}
+
+
+.UIIntentionalStory{border-top:1px solid #d8dfea;margin-bottom:7px;padding-top:7px;background-color:#ffffff;position:relative;}
+.UIIntentionalStory_First{border-top:none;margin-top:0;padding-top:0;}
+.story_preview_nile .UIIntentionalStory{border:none;}
+.UIIntentionalStory_Body .stream_unfollow{display:none;position:absolute;right:5px;top:0px;width:18px;}
+.UIIntentionalStory_First .UIIntentionalStory_Body .stream_unfollow{top:0px;}
+.hover .UIIntentionalStory_Body .stream_unfollow{display:block;}
+.UIIntentionalStory_Time{color:#777777;font-size:11px;}
+.UIIntentionalStory_BottomAttribution{color:#777777;}
+.UIIntentionalStory_Pic{position:absolute;}
+.UIIntentionalStory_RoundedCorners{position:absolute;}
+.UIIntentionalStory_Image{display:block;position:absolute;vertical-align:middle;}
+.UIIntentionalStory_Body{min-height:50px;padding:0px 0px 0px 60px;}
+.ie6 .UIIntentionalStory_Body{height:50px;overflow:visible;}
+.UIIntentionalStory_Message{color:#333333;font-size:13px;font-weight:normal;overflow:hidden;}
+.UIFeedFormStory_Prompt{color:#777777;font-size:13px;padding-right:25px;}
+.UIFeedFormStory_Prompt .UIFeedFormStory_Lead{font-weight:bold;}
+.UIFeedFormStory_Prompt textarea{font-size:13px;font-weight:normal;margin-top:7px;overflow:hidden;width:100%;}
+.UIIntentionalStory_Arrow{padding:0px 1px;}
+.UIIntentionalStory_Names{color:#444;font-weight:bold;}
+.UIIntentionalStory_Attribution{color:gray;}
+.UIIntentionalStory .UIStoryAttachment_MediaSingle{padding-right:10px;}
+.UIIntentionalStory_MediaSingle .UIMediaItem{float:none;}
+.UIIntentionalStory_MediaExtra{padding-left:8px;}
+.UIIntentionalStory .UIMediaItem_UnknownWidth{max-width:130px;}
+.ie6 .UIIntentionalStory .UIMediaItem_UnknownWidth{width:130px;}
+.UIIntentionalStory_Info{clear:left;margin-top:1px;overflow:hidden;}
+.UIIntentionalStory_AttachmentInfo{padding-top:5px;}
+.UIIntentionalStory_Icon,
+.UIIntentionalStory_Mobile{position:absolute;}
+img.UIIntentionalStory_Icon{margin:2px;}
+.UIIntentionalStory_Mobile{padding-top:3px;}
+.UIIntentionalStory_InfoText{min-height:16px;padding:2px 0px 0px 0px;}
+.ie6 .UIIntentionalStory_InfoText{height:16px;}
+.UIIntentionalStory_InfoTextIndented{padding-left:22px;}
+.unfollow_message .unfollow_undo{float:right;margin-top:.6em;margin-right:10px;}
+.unfollow_message{padding:10px 0;padding:10px 0;width:100%;background:#fff9d7;border-top:solid 1px #D8DFEA;}
+.unfollow_message p{margin:0;padding:0 0 0 10px;}
+.UIIntentionalStory_hover{background:#eeeeee;}
+.UIIntentionalStory .swfvideo .extra{padding-bottom:0px;padding-right:0px;}
+.UIIntentionalStory .UIMediaItem_video{padding-bottom:0px;}
+.UIIntentionalStory_Hide{visibility:hidden;margin-top:-2px;margin-left:3px;height:22px;float:right;}
+.hover .UIIntentionalStory_Hide{visibility:visible;}
+.UIIntentionalStory_Close{position:relative;text-align:right;}
+.UIIntentionalStory_CloseButton{background:url(/images/ui/UIComposer_sprites_v3.gif) -150px -83px no-repeat;float:right;height:18px;position:absolute;right:0px;top:0px;width:18px;}
+.UIIntentionalStory_CloseButton .unfollow_tooltip{background:none;display:none;padding-bottom:4px;position:absolute;right:0px;top:-28px;width:250px;}
+.UIIntentionalStory_CloseButton .unfollow_tooltip span{color:white;float:right;padding:3px 6px 4px;}
+.UIIntentionalStory_CloseButton:hover{background-position:-168px -83px;text-decoration:none;}
+.UIIntentionalStory_CloseButton:hover .unfollow_tooltip{background:url(/images/dark-pointer-padded.gif) no-repeat right bottom;display:block;}
+.UIIntentionalStory_CloseButton:hover .unfollow_tooltip span{background-color:#282828;display:block;}
+
+#home_stream{float:left;padding-left:14px;width:530px;}
+.UIFullPage_Container{width:940px;padding:50px 12px 0px 12px;margin:0px auto;}
+.UIOneOff_Container{padding:0px;margin:0px;}
+</style>
+
+
+<div id="menubar_container">
+	<div id="fb_menubar" class="clearfix">
+		<div id="fb_menubar_core">
+			<ul class="fb_menu_list"><!--
+				<li class="fb_menu" id="fb_menubar_logo">
+					<a href="#" title="Go to Facebook Home">
+					<span>&nbsp;</span></a>
+				</li>-->
+				<li class="fb_menu" id="famille_logo">
+					<a href="#" title="Logo">
+					<span>&nbsp;</span></a>
+				</li>
+				<li class="fb_menu" id="fb_menu_home">
+					<div class="fb_menu_title">
+						<a href="#" accesskey="1">Accueil</a>
+					</div>
+				</li>
+				<li class="fb_menu" id="f4_menu_rub">
+					<div class="fb_menu_title">
+						<a href="#" accesskey="3">Rubriques</a>
+					</div>
+					<div class="fb_menu_dropdown hidden" id="f4_menu_rub_dropdown" style="display:none;">
+						<div class="fb_menu_item">
+							<a href="http://www.facebook.com/friends/?added&amp;ref=tn"><b>Le site</b></a>
+						</div>
+						<div class="fb_menu_item">
+							<a href="http://www.facebook.com/friends/?everyone&amp;ref=tn">Actualité</a>
+						</div>
+						<div class="fb_menu_item">
+							<a href="http://www.facebook.com/friends/?everyone&amp;ref=tn">J.J.Goldman</a>
+						</div>
+						<div class="fb_menu_item">
+							<a href="http://www.facebook.com/friends/?everyone&amp;ref=tn">Discographie</a>
+						</div>
+						<div class="fb_menu_item">
+							<a href="http://www.facebook.com/friends/?everyone&amp;ref=tn">Médias</a>
+						</div>
+						<div class="fb_menu_item">
+							<a href="http://www.facebook.com/friends/?everyone&amp;ref=tn">Tournées</a>
+						</div>
+						<div class="fb_menu_item">
+							<a href="http://www.facebook.com/friends/?everyone&amp;ref=tn">Liens</a>
+						</div>
+						<div class="fb_menu_item">
+							<a href="http://www.facebook.com/friends/?everyone&amp;ref=tn">famille</a>
+						</div>
+						<div class="fb_menu_item">
+							<a href="http://www.facebook.com/friends/?everyone&amp;ref=tn">En ++</a>
+						</div>
+						<div class="fb_menu_separator"></div>
+						<div class="fb_menu_item">
+							<a href="http://www.facebook.com/invite.php?ref=tn"><b>Le forum</b></a>
+						</div>
+						<div class="fb_menu_item">
+							<a href="http://www.facebook.com/findfriends.php?ref=friends&amp;context=70128116136">Derniers sujets</a>
+						</div>
+						<div class="fb_menu_item">
+							<a href="http://www.facebook.com/findfriends.php?ref=friends&amp;context=70128116136">Tous les sujets non lus</a>
+						</div>
+						<div class="fb_menu_separator"></div>
+						<div class="fb_menu_item">
+							<a href="http://www.facebook.com/invite.php?ref=tn"><b>Le chat</b></a>
+						</div>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="UIFullPage_Container"><div class="UIOneOff_Container">
+<div id="bandeau"><div id="gauche"><div id="filtres">
+
+<div class="UIFilterList" id="c49cdfde3e45c75b76590037">
+	<div class="UIFilterList_List">
+		<div class="UIFilterList_Item UIFilterList_Selected UIFilterList_FirstItem   UIFilterList_HasIcon">
+			<a href="http://www.facebook.com/home.php?filter=nf" class="UIFilterList_ItemLink" title="News Feed">
+				<span class="UIFilterList_Icon" style="background-image: url(http://b.static.ak.fbcdn.net/images/app_icons/newsfeed.gif?8:150664)"></span>
+				News Feed
+			</a>
+			<span class="UIFilterList_LoadingIndicator"></span>
+			<span class="UIFilterList_ItemRight"></span>
+		</div>
+		<div class="UIFilterList_Item     UIFilterList_HasIcon">
+			<a href="http://www.facebook.com/home.php?filter=fl_54414427128" class="UIFilterList_ItemLink UIFilterList_HasEditIcon" title="limited">
+				<span class="UIFilterList_Icon" style="background-image: url(http://b.static.ak.fbcdn.net/images/friend_lists/friend_list_icon_with_hover.gif?8:153889)"></span>
+				<span class="UIFilterList_Icon UIFilterList_EditIcon" onclick="FriendListManagerBootstrap.bootstrap(&quot;54414427128&quot;); return false;"></span>
+				limited
+			</a>
+			<span class="UIFilterList_LoadingIndicator"></span>
+			<span class="UIFilterList_ItemRight"></span>
+		</div>
+	</div>
+</div>
+</div></div></div>
+
+</div>
+<div id="home_stream">
+
+<div id="div_story_56653127695348342_154529940111" onmouseover="CSS.addClass(this, &#039;hover&#039;);" onmouseout="CSS.removeClass(this, &#039;hover&#039;);"  class="UIIntentionalStory_First UIStory UIIntentionalStory aid_528485526 commentable_item no_comments collapsed_comments autoexpand_mode">
+
+<div class="UIIntentionalStory_Content"><a href="http://www.facebook.com/profile.php?id=528485526&amp;ref=nf" class="UIIntentionalStory_Pic" onclick="ft(&quot;4:10:46:0:1:::::528485526:1::::0:56653127695348342::0.061922685213136:qrt107:0::&quot;,&quot;1238796411:0271a7abf55aa3206e94ae5fb290e3cd&quot;,&quot;clk&quot;,0,&quot;nf&quot;);">
+
+
+<span class="UIRoundedImage UIRoundedImage_WHITE UIRoundedImage_LARGE"><img src="http://profile.ak.facebook.com/v52/1466/78/q528485526_3897.jpg" alt="" class="UIRoundedImage_Image" /><span class="UIRoundedImage_Corners"><img src="/images/ui/UIRoundedImage.png" alt="" class="UIRoundedImage_CornersSprite" /></span></span></a>
+
+<div class="UIIntentionalStream UIStream" id="c49d66c5bd2fd11186835288">
+
+<div class="UIIntentionalStory_Body"><div class="UIIntentionalStory_Header"><div class="UIIntentionalStory_Hide"></div><h3 class="UIIntentionalStory_Message">n                <span class="UIIntentionalStory_Names"><a href="http://www.facebook.com/profile.php?id=528485526&amp;ref=nf" onclick="ft(&quot;4:10:46:0:1:::::528485526:1::::0:56653127695348342::0.061922685213136:qrt107:0::&quot;,&quot;1238796411:0271a7abf55aa3206e94ae5fb290e3cd&quot;,&quot;clk&quot;,0,&quot;nf&quot;);">Gau00eblle CHRETIEN</a>n                </span>Na casa da Sophie em Lyon, esperando a Ma chegar , youhou !!!! Meu sobrinho tah super fofo :) !!! et J&#039;ai revu Christine :))))) !!!!!!!!!!</h3></div><div class="UIIntentionalStory_Info"><div class="UIIntentionalStory_InfoText"><span class="UIIntentionalStory_Time">31 minutes ago</span> &#183; <span class="action_links_bottom"><a onclick="toggle_feedcomments_box_open(&quot;154529940111&quot;, &quot;56653127695348342&quot;, 1, true);return false;" title="Click here to leave a comment" onmouseover="CSS.addClass(this, &#039;feedback_hover&#039;)" onmouseout="CSS.removeClass(this, &#039;feedback_hover&#039;)">Comment</a><span class="action_link_dash action_link_dash_1"> &#183; </span><span id="like_link_56653127695348342_154529940111_id_49d66c5bdf6ef1174166171" class="like_link like_not_exists"><a onclick="toggle_feedcomments_box_open(&quot;154529940111&quot;, &quot;56653127695348342&quot;, 1, false);LikeController.saveChangeLike({&quot;viewer&quot;:&quot;651757128&quot;,&quot;actor&quot;:&quot;528485526&quot;,&quot;item_id&quot;:&quot;56653127695348342&quot;,&quot;target_fbid&quot;:&quot;154529940111&quot;,&quot;type_id&quot;:&quot;22&quot;,&quot;source&quot;:1,&quot;assoc_obj_id&quot;:&quot;&quot;,&quot;extra_story_params&quot;:[]}, true, &quot;3501fd81a0d6c085&quot;);ft(&quot;26:10:46:0:0:::::528485526:1::::0:56653127695348342::0.061922685213136:qrt107:0::&quot;,&quot;1238796411:77ac0e5bcd3efe65fc5c53aeb95f5e44&quot;,&quot;clk&quot;,0,&quot;nf&quot;);return false;" class="like_component_not_exists" title="Click here to like this item" onmouseover="CSS.addClass(this, &#039;feedback_hover&#039;)" onmouseout="CSS.removeClass(this, &#039;feedback_hover&#039;)">Like</a><a onclick="LikeController.saveChangeLike({&quot;viewer&quot;:&quot;651757128&quot;,&quot;actor&quot;:&quot;528485526&quot;,&quot;item_id&quot;:&quot;56653127695348342&quot;,&quot;target_fbid&quot;:&quot;154529940111&quot;,&quot;type_id&quot;:&quot;22&quot;,&quot;source&quot;:1,&quot;assoc_obj_id&quot;:&quot;&quot;,&quot;extra_story_params&quot;:[]}, false, &quot;3501fd81a0d6c085&quot;);ft(&quot;27:10:46:0:0:::::528485526:1::::0:56653127695348342::0.061922685213136:qrt107:0::&quot;,&quot;1238796411:9bf2a2d28bcbd0868317b4faf795d1c4&quot;,&quot;clk&quot;,0,&quot;nf&quot;);return false;" class="like_component_exists" title="Click here to stop liking this item" onmouseover="CSS.addClass(this, &#039;feedback_hover&#039;)" onmouseout="CSS.removeClass(this, &#039;feedback_hover&#039;)">Unlike</a></span></span></div></div><div class="comment_box" id="comments_box_56653127695348342"><div class="target_comments selected_target_comments"     id="feed_comments_target_56653127695348342_154529940111"><div id="like_box_56653127695348342_154529940111" class="like_box no_likes like_not_exists"><div class="wallpost"><div class="like_sentence_container"><div class="like_sentence like_sentence_exists like_component_exists"><a onclick="LikeController.saveChangeLike({&quot;viewer&quot;:&quot;651757128&quot;,&quot;actor&quot;:&quot;528485526&quot;,&quot;item_id&quot;:&quot;56653127695348342&quot;,&quot;target_fbid&quot;:&quot;154529940111&quot;,&quot;type_id&quot;:&quot;22&quot;,&quot;source&quot;:1,&quot;assoc_obj_id&quot;:&quot;&quot;,&quot;extra_story_params&quot;:[]}, false, &quot;3501fd81a0d6c085&quot;);ft(&quot;27:10:46:0:1:::::528485526:1::::0:56653127695348342::0.061922685213136:qrt107:0::&quot;,&quot;1238796411:9d7e23361d3b2caebc64791157a8bc90&quot;,&quot;clk&quot;,0,&quot;nf&quot;);" class="like_box_thumb_icon">&nbsp</a>You like this.</div><div class="like_sentence like_sentence_not_exists like_component_not_exists"><a onclick="LikeController.saveChangeLike({&quot;viewer&quot;:&quot;651757128&quot;,&quot;actor&quot;:&quot;528485526&quot;,&quot;item_id&quot;:&quot;56653127695348342&quot;,&quot;target_fbid&quot;:&quot;154529940111&quot;,&quot;type_id&quot;:&quot;22&quot;,&quot;source&quot;:1,&quot;assoc_obj_id&quot;:&quot;&quot;,&quot;extra_story_params&quot;:[]}, true, &quot;3501fd81a0d6c085&quot;);ft(&quot;26:10:46:0:1:::::528485526:1::::0:56653127695348342::0.061922685213136:qrt107:0::&quot;,&quot;1238796411:d2a7275c8208aabeb4e46e89de18518e&quot;,&quot;clk&quot;,0,&quot;nf&quot;);" class="like_box_thumb_icon">&nbsp</a></div></div><div id="like_users_56653127695348342_154529940111" class="like_users clearfix pictures_container" style="display:none"></div></div></div><div class="wall_posts"     id="feed_comments_56653127695348342_154529940111"></div><div class="wallpost comment_error_target"      id="feed_comments_error_56653127695348342_154529940111" ></div><form method="post" action="/minifeed.php" name="add_comment_56653127695348342_154529940111" id="add_comment_56653127695348342_154529940111"><input type="hidden" name="charset_test" value="&euro;,&acute;,u20ac,u00b4,u6c34,u0414,u0404" /><input type="hidden" id="post_form_id" name="post_form_id" value="86d1cf1ed6b78cf63ddad077c8207fa9" /><div class="wallpost comment_add_row" id="comments_add_56653127695348342_154529940111"><div class="comments_add_box"><div class="wallcommentbox one_row_add_box clearfix" id="add_comment_wrapper_56653127695348342_154529940111"><div class="comments_add_box_image"><span class="UIRoundedImage UIRoundedImage_GIRLIE UIRoundedImage_SMALL"><img src="http://profile.ak.facebook.com/v229/954/20/q651757128_2854.jpg" alt="" class="UIRoundedImage_Image" /><span class="UIRoundedImage_Corners"><img src="/images/ui/UIRoundedImage.png" alt="" class="UIRoundedImage_CornersSprite" /></span></span></div><textarea cols="30" rows="2" onblur="feed_comment_record_add_box_onblur(setTimeout(feed_comment_hide_add_box.bind(null, &quot;154529940111&quot;, &quot;56653127695348342&quot;, 1, 1), 150));return false;" onfocus="feed_comment_show_add_button(&quot;154529940111&quot;, &quot;56653127695348342&quot;, 1);if(!this._has_control){new TextAreaControl(this).setMaxLength(1000).setPlaceholderText(this.value).setAutogrow(true).onfocus();this._has_control=true}" title="Write a comment..." style="overflow:hidden;" class="DOMControl_placeholder" id="add_comment_text_56653127695348342_154529940111" name="add_comment_text_56653127695348342_154529940111">Write a comment...</textarea></div><div class="inline_comment_buttons clearfix"><div class="comments_add_box_submit"><input type="submit" class="inputsubmit inputsubmit" onclick="feedcomment_submit(&quot;154529940111&quot;, &quot;56653127695348342&quot;, 1, &quot;528485526&quot;, 22, &quot;&quot;, &quot;4:10:46:0:1:::::528485526:1::::0:56653127695348342::0.061922685213136:qrt107:0::&quot;, &quot;3501fd81a0d6c085&quot;, &quot;&quot;); return false;" id="submit_comment_56653127695348342_154529940111" name="submit_comment_56653127695348342_154529940111" value="Comment" /></div><div class="comments_add_box_controls"></div></div></div></div></form>n</div></div></div></div></div>
+
+</div>
+</div>
+</div>
+   <script type="text/javascript">
+   // <![CDATA[
+     // Behaviour Rules
+    Behaviour.register(myrules);
+   // ]]>
+   </script>
+</body>
+</html>

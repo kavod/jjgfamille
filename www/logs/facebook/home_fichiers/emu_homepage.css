@@ -1,0 +1,142 @@
+/*    HTTP Host:  static.ak.fbcdn.net                                          */
+/*    Generated:  March 25th 2009 3:51:10 PM PDT                               */
+/*      Machine:  10.16.140.105                                                */
+/*       Source:  Global Cache                                                 */
+/*     Location:  css/adz/emu_homepage.css h:6z132lma                          */
+/*       Locale:  en_US                                                        */
+/*         Path:  css/adz/emu_homepage.css                                     */
+
+
+.emu_ad .wallpost{background-color:#ECEFF5;border-bottom:1px solid #E5EAF1;clear:both;float:none;margin:0px 0px 2px 0px;overflow:hidden;padding:6px 4px 6px 6px;}
+.emu_ad .wallimage{float:left;text-align:left;}
+.emu_ad .wallimage img{height:35px;width:35px;}
+.emu_ad .wallcontent{float:left;line-height:13px;padding:0px 0px 0px 6px;width:199px;}
+.emu_ad .wallcontent .wallfrom .wallmeta{color:#999999;font-size:9px;font-weight:normal;}
+.emu_ad .walltext{padding:2px 0px 4px;}
+.emu_ad .wallcontent .x_to_hide{background:transparent url(/images/x_to_hide.gif) no-repeat scroll center;border:medium none;float:right;margin-left:3px;margin-top:-1px;overflow:hidden;padding:1px 5px 2px;width:3px;}
+.emu_ad .comment_box .wallcontent .x_to_hide:hover{background:#3B5998 url(/images/x_to_hide_hover.gif) no-repeat scroll center;}
+.emu_ad .UIMutableFilterList_Toggle{border-top:none;font-size:9px;font-weight:bold;padding:4px 0px 0px 21px;position:relative;}
+.emu_ad textarea{overflow:auto;width:264px;}
+.emu_ad .emu_header_frame_hp{margin:0 0 4px;padding:0 0 2px;}
+.emu_ad .emu_header_frame_hp h2{color:#333333;float:left;font-size:11px;}
+.emu_ad .emu_itb_frame_hp .ad_image{display:block;margin-right:10px;}
+.emu_ad .emu_itb_frame_hp .ad_title,
+.emu_ad .emu_video_frame .ad_title{display:block;font-weight:bold;}
+.emu_ad .emu_itb_frame_hp .ad_body,
+.emu_ad .emu_video_frame .ad_text{margin:3px 0px 0px 0px;}
+.emu_gift_ad .UIHotStory_Body{width:165px;}
+.emu_ad .emu_video_frame .ad_image{display:block;margin-right:10px;}
+.emu_ad .emu_video_frame .emu_video_holder{background-color:#000000;}
+.emu_ad .emu_video_frame .video_thumb{float:none;position:relative;}
+.emu_ad .emu_video_frame .ad_body{float:left;width:180px;}
+.emu_ad .expanded_video div.ad_body{float:none;margin-top:5px;width:auto;}
+.emu_ad .emu_video_frame .video_thumb img.decoy{display:inline;visibility:hidden;}
+.emu_ad .emu_video_frame .video_thumb span.thumb{background-image:url(/images/streams/videos/video_badge_small.png);background-position:bottom left;background-repeat:no-repeat;cursor:pointer;position:absolute;z-index:9;}
+.ie6 .emu_ad .emu_video_frame .video_thumb span.thumb{background-image:url(/images/streams/videos/video_badge_small_ie6.png);}
+.emu_ad .emu_video_frame .video_thumb span.play img{visibility:hidden;}
+.emu_ad .emu_video_frame .video_thumb span.thumb img{visibility:visible;}
+.emu_ad .emu_video_frame .video_thumb span.play{background-image:url(/images/streams/videos/video_badge_small.png);background-position:bottom left;background-repeat:no-repeat;display:inline;position:absolute;z-index:10;}
+.ie6 .emu_ad .emu_video_frame .video_thumb span.play{background-image:url(/images/streams/videos/video_badge_small_ie6.png);}
+.emu_ad .emu_comment_frame{margin:5px 0px 5px 0px;}
+.emu_ad .comment_box{font-size:11px;margin:6px 0px 0px 0px;overflow:hidden;}
+.emu_ad .comment_box .morecontent_toggle_link{padding-bottom:5px;}
+.emu_ad .add_comment{padding-bottom:5px;}
+.emu_ad .comment_box .comments_add_box .inputtext{width:230px;}
+.emu_ad .comment_box .comments_add_box .inputsubmit{margin:5px 0px 0px 0px;padding:2px 5px 3px 5px;}
+.emu_ad .comment_box .comments_add_box .comment_button{margin:5px 0px 0px 0px;}
+.emu_ad .comment_box .comments_add_box .submit_progress{margin:2px 0px 0px 10px;}
+.emu_ad .fan_action_frame_hp .pictures_container{margin:0px;padding:10px 0px 0px;}
+.emu_ad .fan_action_frame_hp .existing_fans{margin-top:10px;}
+.emu_ad .fan_action_frame_hp .fan_link{background-image:none;color:#666;margin:5px 0px 0px;}
+.emu_ad .fan_action_frame_hp .more_link{margin:0px;}
+.emu_ad .fan_action_frame_hp .morecontent_toggle_link a{margin-top:2px;}
+.emu_ad .gift_action_frame{margin:5px 0px 0px 0px;}
+.emu_ad .gift_action_frame .give_success{margin:5px 0px 5px 0px;}
+.emu_ad .gift_action_frame .gift_form{margin:5px 0px 0px 0px;}
+.emu_ad .gift_action_frame .tokenizer{border:1px solid #BDC7D8;width:245px;}
+.emu_ad .gift_action_frame .gift_form .gift_form_wrapper{margin:10px 0px 0px 0px;}
+.emu_ad .gift_action_frame .gift_form .form_label{margin:0px 0px 2px 0px;}
+.emu_ad .gift_action_frame .gift_form .gift_message{height:43px;width:242px;}
+.emu_ad .gift_action_frame .gift_form .gift_form_submit{margin-top:5px;}
+.emu_ad .gift_action_frame .gift_givers{margin:10px 0px 0px 0px;}
+.emu_ad .gift_action_frame .wall_style_post .wall_content{padding-right:5px;}
+.emu_ad .wall_style_post .wall_gift_message{float:left;margin-right:10px;}
+.emu_ad .wall_style_post .wall_mini_gift{float:right;margin:5px 0px 3px 0px;overflow:hidden;width:32px;}
+.emu_ad .wall_style_post .wall_mini_gift_image{height:32px;width:32px;}
+.emu_ad .gift_action_frame .submit_progress{margin:0px 0px 0px 10px;}
+.emu_ad .invite_action_frame{margin:10px 0px 0px 0px;}
+.emu_ad .invite_action_frame .email_input{margin-right:0px;width:95%;}
+.emu_ad .invite_action_frame .invite_submit{margin-top:6px;}
+.emu_ad .invite_action_frame .invite_success{margin:5px 0px 5px 0px;}
+.emu_ad .invite_action_frame .invite_failure{margin:5px 0px 5px 0px;}
+.emu_ad .CIEmu .Yahoo td,
+.emu_ad .CIEmu .Yahoo td.label,
+.emu_ad .CIEmu .Yahoo .editor,
+.emu_ad .CIEmu .Yahoo .contact_importer_widget,
+.emu_ad .CIEmu .Yahoo #address_book_login_widget,
+.emu_ad .CIEmu .WindowsLive td,
+.emu_ad .CIEmu .WindowsLive td.label,
+.emu_ad .CIEmu .WindowsLive .editor,
+.emu_ad .CIEmu .WindowsLive .contact_importer_widget,
+.emu_ad .CIEmu .WindowsLive #address_book_login_widget{border:0;margin:0;padding:0;width:auto;}
+.emu_ad .CIEmu #disclaimer,
+.emu_ad .CIEmu #gmail_disclaimer,
+.emu_ad .CIEmu #msapi_disclaimer,
+.emu_ad .CIEmu #show_password,
+.emu_ad .CIEmu #unsupported_email,
+.emu_ad .CIEmu #yahoo_disclaimer,
+.emu_ad .CIEmu #contact_importer_ext_info,
+.emu_ad .CIEmu .WindowsLive .address_book_email,
+.emu_ad .CIEmu .Yahoo .address_book_email,
+.emu_ad .CIEmu .Unsupported{display:none !important;}
+.emu_ad .CIEmu .Yahoo .inputsubmit{display:inline-block !important;}
+.emu_ad .CIEmu .WindowsLive .inputsubmit{visibility:hidden !important;}
+.emu_ad .CIEmu{margin-bottom:5px;margin-top:5px;overflow:hidden;width:130px;}
+.emu_ad .CIEmu_Link{font-weight:bold;}
+.emu_ad .address_book_form{overflow:hidden;}
+.emu_ad .event_action_frame .event_info{margin:5px 0px 0px;}
+.emu_ad .event_action_frame .event_info .event_details td{padding:0px 0px 2px 0px;vertical-align:top;}
+.emu_ad .event_action_frame .event_info .event_details td.label{padding:0px 10px 0px 0px;font-weight:normal;}
+.emu_ad .event_action_frame .event_info .inputradio{height:14px;margin:0px;padding:0px;vertical-align:middle;width:14px;}
+.emu_ad .event_action_frame .event_info label{color:#000;font-weight:normal;margin-right:15px;padding-left:3px;}
+.emu_ad .event_action_frame .event_info .rsvp_inputs{padding-top:2px;}
+.emu_ad .event_action_frame .event_info .submit_progress{padding:3px 0px 0px 0px;}
+.emu_ad .event_action_frame .message_form{margin:5px 0px 0px 0px;}
+.emu_ad .event_action_frame .message_form .inputsubmit{margin:5px 0px 0px 0px;}
+.emu_ad .event_action_frame .friend_rsvps{margin:10px 0px 0px 0px;}
+.emu_ad .event_action_frame .event_summary{line-height:15px;margin:0px 0px 5px 0px;padding:0px 0px 0px 2px;}
+.emu_ad .event_action_frame textarea{height:31px;margin:5px 0px 5px 0px;width:242px;}
+.emu_ad .event_action_frame .submit_progress{margin:0px 0px 0px 10px;}
+.emu_ad .event_action_frame .invite_form .invite_form_submit{margin-top:5px;}
+.emu_ad .event_action_frame .invite_form .tokenizer{border:1px solid #BDC7D8;margin:5px 0px 0px 0px;width:240px;}
+.emu_ad .event_action_frame .invite_form .invite_form_submit .submit_progress{margin:0px 0px 0px 10px;}
+.emu_ad .poll_action_frame{margin:5px 0px 0px;}
+.emu_ad .poll_action_frame .answer_form{padding:5px 0px 5px 3px;position:relative;}
+.emu_ad .poll_action_frame .answer_form .answer{padding:0px 0px 5px 5px;}
+.emu_ad .poll_action_frame .answer_form .inputradio{height:14px;margin:0px 7px 0px 0px;padding:0px;width:14px;}
+.emu_ad .poll_action_frame .answer_form label{color:#000;font-weight:normal;margin:0px;padding:0px;}
+.emu_ad .poll_action_frame .submit_progress{position:absolute;}
+.emu_ad .poll_action_frame .poll_results{padding:5px 0px;}
+.emu_ad .poll_action_frame .poll_result{vertical-align:top;}
+.emu_ad .poll_action_frame .poll_result .label_and_friend_votes{padding:0px 0px 4px 0px;}
+.emu_ad .poll_action_frame .poll_result .result_percent{line-height:16px;padding:0px 5px 0px 0px;text-align:right;}
+.emu_ad .poll_action_frame .poll_result .result_bar{height:16px;position:relative;}
+.emu_ad .poll_action_frame .poll_result .result_label{line-height:16px;padding:0px 0px 0px 3px;position:absolute;white-space:nowrap;}
+.emu_ad .poll_action_frame .poll_result .not_lead_result{background-color:#d8dfea;}
+.emu_ad .poll_action_frame .poll_result .lead_result{background-color:#3b5998;color:#fff;}
+.emu_ad .poll_action_frame .friend_count_link{display:block;line-height:16px;}
+.emu_ad .poll_action_frame .poll_result .friend_vote_pics{overflow:hidden;width:210px;}
+.emu_ad .poll_action_frame .poll_result .friend_vote_pics .friend_pic{display:block;float:left;height:35px;}
+.emu_ad .poll_action_frame .poll_result .friend_vote_pics .friend_pic img{height:35px;width:35px;}
+.emu_ad .research_poll_title{color:#333;font-weight:bold;}
+.emu_ad .research_poll_description{padding-bottom:10px;}
+.emu_ad .emu_research_poll .poll_question{font-weight:bold;}
+.emu_ad .poll_radios_as_copy{margin-top:0px;}
+.emu_ad .poll_radios_as_copy .answer_form{padding-left:2px;}
+.emu_ad .poll_radios_as_copy .answer_form .answer{padding-left:0px;}
+.emu_research_poll .UIHotStory_Copy{padding-top:0px;}
+.emu_research_poll div.UIHotStory_Body{width:100%;}
+.UIHotStory .emu_research_poll div.poll_action_frame{margin-top:0px;}
+
+
+#bootloader_css_adz_emu_homepage_css { height: 42px; }

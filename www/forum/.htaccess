@@ -1,0 +1,12 @@
+RewriteEngine On 
+RewriteRule ^index.html /forum/index.php 
+
+RewriteRule ^f([0-9]*)_([0-9]*)_([0-9]*)-.* /forum/viewforum.php?f=$1&topicdays=$2&start=$3 
+RewriteRule ^f([0-9]*)_([0-9]*)-.* /forum/viewforum.php?f=$1&start=$2 
+RewriteRule ^f([0-9]*)-.* /forum/viewforum.php?f=$1 
+
+RewriteRule ^([0-9]*)_([0-9]*)_([a-zA-Z]*)_([0-9]*)-.* /forum/viewtopic.php?t=$1&postdays=$2&postorder=$3&start=$4 
+RewriteRule ^([0-9]*)_([0-9]*)-.* /forum/viewtopic.php?t=$1&start=$2 
+RewriteRule ^([0-9]*)-.* /forum/viewtopic.php?t=$1 
+
+RewriteRule ^sitemap\.xml$ /forum/sitemap.php

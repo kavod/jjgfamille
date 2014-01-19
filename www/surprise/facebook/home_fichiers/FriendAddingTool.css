@@ -1,0 +1,19 @@
+/*    HTTP Host:  static.ak.fbcdn.net                                          */
+/*    Generated:  March 10th 2009 9:32:10 AM PDT                               */
+/*      Machine:  10.16.140.107                                                */
+/*       Source:  Global Cache                                                 */
+/*     Location:  css/FriendAddingTool.css h:bh2cd4g2                          */
+/*       Locale:  en_US                                                        */
+/*         Path:  css/FriendAddingTool.css                                     */
+
+
+.FriendAddingTool{min-height:30px;padding-top:10px;}
+.FriendAddingTool_Menu{display:inline-block;}
+.FriendAddingTool_Checkbox{padding-left:5px;display:inline-block;padding-bottom:5px;}
+.FriendAddingTool_Checkbox label{font-weight:normal;color:black;}
+.FriendAddingTool_InnerMenu{background:#eee;padding-top:5px;}
+.FriendAddingTool_CreateNewList{width:142px;margin:5px;}
+.FriendAddingTool_BlankState{color:#555;font-weight:bold;padding:0px 6px;}
+
+
+#bootloader_css_FriendAddingTool_css { height: 42px; }

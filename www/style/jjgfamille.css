@@ -1,0 +1,21 @@
+body {
+	background-color: #FFEFC3;
+	text-align:center;
+}
+
+.image {
+	border-style: hidden;
+}
+
+h1 {
+	padding :0px;
+	margin:0px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+h2 {
+	padding :0px;
+	margin:1px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}

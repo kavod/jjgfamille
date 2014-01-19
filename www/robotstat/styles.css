@@ -1,0 +1,65 @@
+/***************************************************************************
+ *
+ *   RobotStats
+ *
+ * Author:   Olivier Duffez, WebRankInfo ( http://www.webrankinfo.com )
+ * Version:  1.0
+ * Date:     2003-10-11
+ * Homepage: http://www.robotstats.com    
+ *
+ ***************************************************************************/
+
+body{
+	color:						#000066;
+	font-family:				verdana,arial,helvetica,sans-serif;
+	font-size:				    14px;
+}
+
+/* liens */
+a:link    { color: #0066FF; text-decoration: none; text-decoration: none;}
+a:visited { color: #7308AA; text-decoration: none; text-decoration: none;}
+a:active  { color: #0000CC; text-decoration: none; text-decoration: none;}
+a:hover   { color: #CC0000; text-decoration: none; text-decoration: underline;}
+
+/* liens */
+a.calendarTopLink:link    { color: #EEFFFF; text-decoration: none; text-decoration: none;}
+a.calendarTopLink:visited { color: #E3F3FF; text-decoration: none; text-decoration: none;}
+a.calendarTopLink:active  { color: #FFFF99; text-decoration: none; text-decoration: none;}
+a.calendarTopLink:hover   { color: #FFFF99; text-decoration: none; text-decoration: underline;}
+
+.onglet-actif  { font-size: 18px; font-weight: bold; color: #0066DD; background-color: #BBDDFF; font-family: Tahoma, Verdana, Arial;}
+.onglet-inactif  { font-size: 18px; font-weight: bold; color: #0066DD; background-color: #CCEEFF; font-family: Tahoma, Verdana, Arial;}
+
+.erreur  { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF; font-weight: bold; background: #CC0000 }
+A.erreur  { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF; font-weight: bold; background: #CC0000 }
+
+/* normal et dérivés */
+.normal			{ font-size:13px; color: #000066; font-family: verdana, arial, helvetica, sans-serif; text-align: justify}
+.normal-centre  { font-size:13px; color: #000066; font-family: verdana,arial,helvetica,sans-serif; text-align: center}
+.normal-gauche  { font-size:13px; color: #000066; font-family: verdana,arial,helvetica,sans-serif; text-align: left}
+
+.moyen        { font-size:11px; color: #000066; font-family: verdana, arial, helvetica, sans-serif; text-align: justify }
+.moyen-centre { font-size:11px; color: #000066; font-family: verdana, arial, helvetica, sans-serif; text-align: center }
+.moyen-gauche { font-size:11px; color: #000066; font-family: verdana, arial, helvetica, sans-serif; text-align: left }
+.jour-centre { font-size:9px; color: #6666bb; font-family: verdana, arial, helvetica, sans-serif; text-align: center }
+
+.petit        { font-size:10px; color: #000066; font-family: verdana, arial, helvetica, sans-serif; text-align: justify }
+.petit-centre { font-size:10px; color: #000066; font-family: verdana, arial, helvetica, sans-serif; text-align: center }
+.petit-gauche { font-size:10px; color: #000066; font-family: verdana, arial, helvetica, sans-serif; text-align: left }
+
+.fixe        { font-size:11px; color: #000066; font-family: Courier New, Courier, mono; text-align: justify }
+.fixe-centre { font-size:11px; color: #000066; font-family: Courier New, Courier, mono; text-align: center }
+.fixe-gauche { font-size:11px; color: #000066; font-family: Courier New, Courier, mono; text-align: left }
+
+.ligneA   { font-size:11px; background-color:#EEFFFF; text-align: left; font-family: Verdana, Arial, Helvetica, sans-serif; }
+.ligneB   { font-size:11px; background-color:#E3F3FF; text-align: left; font-family: Verdana, Arial, Helvetica, sans-serif; }
+.ligne404 { font-size:11px; background-color:#FFE3E3; text-align: left; font-family: Verdana, Arial, Helvetica, sans-serif; }
+
+.calendarNav  {  font-family: Verdana, Arial, Helvetica; font-size: 9px; font-style: normal; background-color: #3f6551}
+.calendarTop  {  font-family: Verdana, Arial, Helvetica; font-size: 11px; font-style: normal; color: #FFFFFF; font-weight: bold;  background-color: #0066DD}
+.calendarToday {  font-family: Verdana, Arial, Helvetica; font-size: 10px; font-weight: bold; color: #FF8800; background-color: #CCEEFF;}
+.calendarDays   {  font-family: Verdana, Arial, Helvetica; font-size: 10px; font-style: normal; color: #000000; background-color: #FFFFFF; text-align: center}
+.calendarWeek   {  font-family: Verdana, Arial, Helvetica; font-size: 10px; font-style: normal; color: #000022; background-color: #EEEEFF; text-align: center}
+.calendarHeader {  font-family: Verdana, Arial, Helvetica; font-size: 9px; background-color: #00AADD; color: #FFFFFF;}
+.calendarTable {  background-color: #000066; border: 1px #000066 solid}
+

@@ -1,0 +1,8 @@
+RewriteEngine On 
+RewriteRule ^index.html /actu/
+
+RewriteRule ^concours_goldman\.html$ /more/concours.php
+RewriteRule ^concours_goldman([0-9]+)-.*\.html$ /more/view_concours.php?concours_id=$1
+
+RewriteRule ^sitemap\.xml$ /more/sitemap.php
+

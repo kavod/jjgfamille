@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /includes
+Disallow: /db
+Disallow: /cache
+Disallow: /docs
+Disallow: /functions
+Disallow: /logs
+Disallow: /templates
+Disallow: /webchat
+Disallow: /admin
+Disallow: /robotstat
+# Disallow: /disco/*.php
+# Disallow: /actu/*.php
+Disallow: /forum/google_track.php
+Disallow: /forum/faq.php 
+Disallow: /forum/groupcp.php 
+Disallow: /forum/login.php 
+Disallow: /forum/memberlist.php 
+Disallow: /forum/modcp.php 
+Disallow: /forum/posting.php 
+Disallow: /forum/privmsg.php 
+Disallow: /forum/profile.php 
+Disallow: /forum/search.php 
+Disallow: /forum/viewforum.php 
+Disallow: /forum/viewonline.php 
+Disallow: /forum/viewtopic.php 
+Disallow: /phpmyvisites/phpmyvisites.php

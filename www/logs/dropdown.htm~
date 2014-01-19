@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3c.org/TR/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" wml:lang="fr">
+<head>
+<title>niouf</title>
+<meta http-equiv="content-type" content="text/html;charset=iso-8859-1" />
+<script type="text/javascript" src="js/prototype.js"></script>
+<script type="text/javascript" src="js/scriptaculous.js"></script>
+<script type="text/javascript" src="js/behaviour.js"></script>
+<script type="text/javascript" src="js/rules.js"></script>	
+</head>
+<body>
+<a id="open" href="javascript:void(0);" >Open</a>
+<a id="close" href="javascript:void(0);" style="display:none;">Close</a> 
+<div id="contents" style="display:none;">
+     bla bla bla bla bla bla
+</div> 
+   <script type="text/javascript">
+   // <![CDATA[
+     // Behaviour Rules
+    Behaviour.register(myrules);
+alert(myrules);
+   // ]]>
+   </script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+Options -Indexes
+
+RewriteEngine On 
+RewriteRule ^cdc_(.*)\.html$ /lien_coup_de_coeur.php?site=$1
+RewriteRule ^sitemap\.xml$ /sitemap.php
+
+RedirectPermanent ^/bientot\.php$ http://www.jjgfamille.com/
+
+#Chat
+RewriteRule ^jean-jacques-goldman-jjg-famille/chat.htm$ /chat/index.php [L]
+RewriteRule ^jean-jacques-goldman-jjg-famille/aide-chat.htm$ /chat/help.php [L]
+RewriteRule ^jean-jacques-goldman-jjg-famille/soirees-a-themes-chat.htm$ /chat/soirees.php [L]

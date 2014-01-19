@@ -1,0 +1,8 @@
+AuthUserFile /home/jjgfamil/.htpasswd
+AuthName "Robotstat"
+AuthType Basic
+
+<Files ~ "^.*[^r][^e][^a][^d][^m][^e][^.][^t][^x][^t].*$">
+	require valid-user
+</Files>
+

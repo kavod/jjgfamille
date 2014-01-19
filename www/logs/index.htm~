@@ -1,0 +1,302 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html id="famille4" xml:lang="fr" xmlns="http://www.w3.org/1999/xhtml" lang="fr">
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+	<meta http-equiv="Content-language" content="en">
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+	<title>Famille 4</title>
+	<link type="text/css" rel="stylesheet" href="style.css">
+	<script type="text/javascript" src="js/prototype.js"></script>
+	<script type="text/javascript" src="js/scriptaculous.js"></script>
+	<script type="text/javascript" src="js/behaviour.js"></script>
+	<script type="text/javascript" src="js/rules1.js"></script>
+</head>
+<body class="home ff3 Locale_en_US chat_body">
+	<div id="nonfooter">
+		<div id="page_height" class="clearfix">
+			<div id="menubar_container">
+				<div id="fb_menubar" class="clearfix">
+					<div id="fb_menubar_core">
+						<ul class="fb_menu_list"><!--
+							<li class="fb_menu" id="fb_menubar_logo">
+								<a href="#" title="Go to Facebook Home">
+								<span>&nbsp;</span></a>
+							</li>-->
+							<li class="fb_menu" id="famille_logo">
+								<a href="#" title="Logo">
+								<span>&nbsp;</span></a>
+							</li>
+							<li class="fb_menu" id="fb_menu_home">
+								<div class="fb_menu_title">
+									<a href="#" accesskey="1">Accueil</a>
+								</div>
+							</li>
+							<li class="fb_menu" id="f4_menu_rub">
+								<div class="fb_menu_title">
+									<a href="#" accesskey="2">Rubriques</a>
+								</div>
+								<div class="fb_menu_dropdown" id="f4_menu_rub_dropdown" style="display:none;">
+									<div class="fb_menu_item">
+										<a href="#"><b>Le site</b></a>
+									</div>
+									<div class="fb_menu_item">
+										<a href="#">Actualit&eacute;</a>
+									</div>
+									<div class="fb_menu_item">
+										<a href="#">J.J.Goldman</a>
+									</div>
+									<div class="fb_menu_item">
+										<a href="#">Discographie</a>
+									</div>
+									<div class="fb_menu_item">
+										<a href="#">Médias</a>
+									</div>
+									<div class="fb_menu_item">
+										<a href="#">Tournées</a>
+									</div>
+									<div class="fb_menu_item">
+										<a href="#">Liens</a>
+									</div>
+									<div class="fb_menu_item">
+										<a href="#">famille</a>
+									</div>
+									<div class="fb_menu_item">
+										<a href="#">En ++</a>
+									</div>
+									<div class="fb_menu_separator"></div>
+									<div class="fb_menu_item">
+										<a href="#"><b>Le forum</b></a>
+									</div>
+									<div class="fb_menu_item">
+										<a href="#">Derniers sujets</a>
+									</div>
+									<div class="fb_menu_item">
+										<a href="#">Tous les sujets non lus</a>
+									</div>
+									<div class="fb_menu_separator"></div>
+									<div class="fb_menu_item">
+										<a href="#"><b>Le chat</b></a>
+									</div>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div id="content" class="fb_content" style="visibility:visible">
+				<div class="UIFullPage_Container">
+					<div class="UIOneOff_Container">
+						<div id="home_left_column">
+							<div id="home_filter_list">
+								<div class="UIFilterList">
+									<div class="UIFilterList_List">
+										<div class="UIFilterList_Item UIFilterList_Selected UIFilterList_FirstItem   UIFilterList_HasIcon" id="filtre_0" onclick="filtrer(0)">
+											<a href="#" class="UIFilterList_ItemLink" title="News Feed">
+												<span class="UIFilterList_Icon" style="background-image: url(http://b.static.ak.fbcdn.net/images/app_icons/newsfeed.gif?8:150664)"></span>
+												Toutes les news
+											</a>
+											<span class="UIFilterList_LoadingIndicator"></span>
+											<span class="UIFilterList_ItemRight"></span>
+										</div>
+										<div class="UIFilterList_Item     UIFilterList_HasIcon" id="filtre_1" onclick="filtrer(1)">
+											<a href="#" class="UIFilterList_ItemLink UIFilterList_HasEditIcon" title="limited">
+												<span class="UIFilterList_Icon" style="background-image: url(http://b.static.ak.fbcdn.net/images/friend_lists/friend_list_icon_with_hover.gif?8:153889)"></span>
+												<span class="UIFilterList_Icon UIFilterList_EditIcon" onclick="FriendListManagerBootstrap.bootstrap(&quot;54414427128&quot;); return false;"></span>
+												Forum
+											</a>
+											<span class="UIFilterList_LoadingIndicator"></span>
+											<span class="UIFilterList_ItemRight"></span>
+										</div>
+										<div class="UIFilterList_Item     UIFilterList_HasIcon" id="filtre_2" onclick="filtrer(2)">
+											<a href="#" class="UIFilterList_ItemLink UIFilterList_HasEditIcon" title="limited">
+												<span class="UIFilterList_Icon" style="background-image: url(http://b.static.ak.fbcdn.net/images/friend_lists/friend_list_icon_with_hover.gif?8:153889)"></span>
+												<span class="UIFilterList_Icon UIFilterList_EditIcon" onclick="FriendListManagerBootstrap.bootstrap(&quot;54414427128&quot;); return false;"></span>
+												Medias
+											</a>
+											<span class="UIFilterList_LoadingIndicator"></span>
+											<span class="UIFilterList_ItemRight"></span>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div id="home_stream">
+								<div class="UIIntentionalStream UIStream">
+									<div class="UIIntentionalStory_First UIStory UIIntentionalStory aid_696027168 commentable_item no_comments collapsed_comments autoexpand_mode" id="f0">
+										<div class="UIIntentionalStory_Content">
+											<a class="UIIntentionalStory_Pic">
+												<span class="UIRoundedImage UIRoundedImage_WHITE UIRoundedImage_LARGE">
+													<img src="277529409432533ab4fc92.gif" class="UIRoundedImage_Image" alt="" />
+													<span class="UIRoundedImage_Corners">
+														<img src="UIRoundedImage.png" class="UIRoundedImage_CornersSprite" alt="" />
+													</span>
+												</span>
+											</a>
+											<div class="UIIntentionalStory_Body">
+												<div class="UIIntentionalStory_Header">
+													<div class="UIIntentionalStory_Hide"></div>
+													<h3 class="UIIntentionalStory_Message">
+														<span class="UIIntentionalStory_Names"><a href="#">Boris</a></span>
+														a post&eacute; sur le forum
+													</h3>
+												</div>
+												<div class="UIStoryAttachment">
+													<div class="UIStoryAttachment_Content">
+														<div class="UIStoryAttachment_Title">
+															<a href="#">
+																Pr&eacute;parez-vous &agrave; famille 4 !
+															</a>
+														</div>
+														<div class="UIStoryAttachment_Copy">
+															Bonjour &agrave tous ! Ca faisait un petit moment qu'une telle nouvelle n'&eacute;tait pas arriv&eacute;e mais il nous sommes fiers de vous annoncer que [...]
+														</div>
+													</div>
+												</div>
+												<div class="UIIntentionalStory_Info UIIntentionalStory_AttachmentInfo">
+													<div class="UIIntentionalStory_Icon">
+														<img src="http://static.ak.fbcdn.net/images/spacer.gif?8:11" class="spritemap_icons sx_post" alt="" />
+													</div>
+													<div class="UIIntentionalStory_InfoText UIIntentionalStory_InfoTextIndented">
+														<span class="UIIntentionalStory_Time">
+															01 avril, &agrave; 10:06
+														</span>
+														<span class="action_links_bottom">
+															<a href="#">Commenter</a>
+															<span class="action_link_dash action_link_dash_1"> &middot; </span>
+															<span class="like_link like_not_exists">
+																<a href="#">J'aime</a>
+															</span>
+															<span class="action_link_dash action_link_dash_3"> &middot; </span>
+															<a href="#">Partager</a>
+														</span>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									
+									
+									<div class="UIStory UIIntentionalStory aid_696027168 commentable_item no_comments collapsed_comments autoexpand_mode" id="f1">
+										<div class="UIIntentionalStory_Content">
+											<a class="UIIntentionalStory_Pic">
+												<span class="UIRoundedImage UIRoundedImage_WHITE UIRoundedImage_LARGE">
+													<img src="277529409432533ab4fc92.gif" class="UIRoundedImage_Image" alt="" />
+													<span class="UIRoundedImage_Corners">
+														<img src="UIRoundedImage.png" class="UIRoundedImage_CornersSprite" alt="" />
+													</span>
+												</span>
+											</a>
+											<div class="UIIntentionalStory_Body">
+												<div class="UIIntentionalStory_Header">
+													<div class="UIIntentionalStory_Hide"></div>
+													<h3 class="UIIntentionalStory_Message">
+														<span class="UIIntentionalStory_Names"><a href="#">Boris</a></span>
+														a post&eacute; sur le forum
+													</h3>
+												</div>
+												<div class="UIStoryAttachment">
+													<div class="UIStoryAttachment_Content">
+														<div class="UIStoryAttachment_Title">
+															<a href="#">
+																Pr&eacute;parez-vous &agrave; famille 4 !
+															</a>
+														</div>
+														<div class="UIStoryAttachment_Copy">
+															Bonjour &agrave tous ! Ca faisait un petit moment qu'une telle nouvelle n'&eacute;tait pas arriv&eacute;e mais il nous sommes fiers de vous annoncer que [...]
+														</div>
+													</div>
+												</div>
+												<div class="UIIntentionalStory_Info UIIntentionalStory_AttachmentInfo">
+													<div class="UIIntentionalStory_Icon">
+														<img src="http://static.ak.fbcdn.net/images/spacer.gif?8:11" class="spritemap_icons sx_post" alt="" />
+													</div>
+													<div class="UIIntentionalStory_InfoText UIIntentionalStory_InfoTextIndented">
+														<span class="UIIntentionalStory_Time">
+															01 avril, &agrave; 10:06
+														</span>
+														<span class="action_links_bottom">
+															<a href="#">Commenter</a>
+															<span class="action_link_dash action_link_dash_1"> &middot; </span>
+															<span class="like_link like_not_exists">
+																<a href="#">J'aime</a>
+															</span>
+															<span class="action_link_dash action_link_dash_3"> &middot; </span>
+															<a href="#">Partager</a>
+														</span>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									
+									
+									<div class="UIStory UIIntentionalStory aid_696027168 commentable_item no_comments collapsed_comments autoexpand_mode" id="m2">
+										<div class="UIIntentionalStory_Content">
+											<a class="UIIntentionalStory_Pic">
+												<span class="UIRoundedImage UIRoundedImage_WHITE UIRoundedImage_LARGE">
+													<img src="524033233f6aa2fc8b7fe.jpg" class="UIRoundedImage_Image" alt="" />
+													<span class="UIRoundedImage_Corners">
+														<img src="UIRoundedImage.png" class="UIRoundedImage_CornersSprite" alt="" />
+													</span>
+												</span>
+											</a>
+											<div class="UIIntentionalStory_Body">
+												<div class="UIIntentionalStory_Header">
+													<div class="UIIntentionalStory_Hide"></div>
+													<h3 class="UIIntentionalStory_Message">
+														<span class="UIIntentionalStory_Names"><a href="#">Olivier</a></span>
+														a r&eacute;f&eacute;renc&eacute; un nouvel article
+													</h3>
+												</div>
+												<div class="UIStoryAttachment">
+													<div class="UIStoryAttachment_Content">
+														<div class="UIStoryAttachment_Title">
+															<a href="#">
+																 <u>Actu24.be :</u> Cet Enfoir&eacute; de Michael Jones
+															</a>
+														</div>
+														<div class="UIStoryAttachment_Copy">
+															Michael Jones sera sur sc&egrave;ne &agrave; Li&egrave;ge pour les Restos du Coeur le 15mai. Il revisitera le r&eacute;pertoire de Jean-Jacques Goldman avec Sunset Boulevard et le choeur de l'Op&eacute;ra royal de Wallonie.
+														</div>
+													</div>
+												</div>
+												<div class="UIIntentionalStory_Info UIIntentionalStory_AttachmentInfo">
+													<div class="UIIntentionalStory_Icon">
+														<img src="http://static.ak.fbcdn.net/images/spacer.gif?8:11" class="spritemap_icons sx_post" alt="" />
+													</div>
+													<div class="UIIntentionalStory_InfoText UIIntentionalStory_InfoTextIndented">
+														<span class="UIIntentionalStory_Time">
+															01 avril, &agrave; 10:06
+														</span>
+														<span class="action_links_bottom">
+															<a href="#">Commenter</a>
+															<span class="action_link_dash action_link_dash_1"> &middot; </span>
+															<span class="like_link like_not_exists">
+																<a href="#">J'aime</a>
+															</span>
+															<span class="action_link_dash action_link_dash_3"> &middot; </span>
+															<a href="#">Partager</a>
+														</span>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									
+									
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<script type="text/javascript">
+   // <![CDATA[
+     // Behaviour Rules
+    Behaviour.register(myrules);
+   // ]]>
+		   </script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+RewriteEngine On 
+RewriteRule ^index.html /jjg/
+
+RewriteRule ^bibliographie\.html$ /jjg/biblio.php
+RewriteRule ^lc([0-9]*)-[^\.]*\.html$ /jjg/biblio_view_cate.php?cate_id=$1
+RewriteRule ^ll([0-9]*)-[^\.]*\.html$ /jjg/biblio_view_livre.php?livre_id=$1
+
+RewriteRule ^biographie\.html$ /jjg/bio.php
+RewriteRule ^b([0-9]*)-[^\.]*\.html$ /jjg/bio.php?bio_id=$1
+
+RewriteRule ^photos\.html$ /jjg/photos.php
+RewriteRule ^photos-.*_([0-9]*)\.html$ /jjg/photos_view_cate.php?cate_id=$1
+RewriteRule ^photo-.*_([0-9]*)\.html$ /jjg/photos_view_photo.php?photo_id=$1
+
+RewriteRule ^sitemap\.xml$ /jjg/sitemap.php
+

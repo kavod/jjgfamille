@@ -1,0 +1,39 @@
+.fboite {
+border: 0px;
+padding: 0 0 0 0px;
+margin: 0px;
+empty-cells: show;
+border-spacing:0px;
+table-layout:fixed;
+}
+
+#tlogo {
+position: absolute;
+top: 0px;
+left: 0px;
+}
+
+#tmenu {
+position: absolute;
+top: 0px;
+right: 0px;
+}
+
+#ttitle {
+position: absolute;
+top: 0px;
+width: 99%;
+height: 53px;
+vertical-align: middle;
+text-align: center;
+}
+
+#tcontent {
+table-layout: auto; 
+width: 100%; 
+empty-cells: show; 
+border: 0px; 
+border-spacing: 0px; 
+padding: 0px;
+top: 70px;
+}

@@ -1,0 +1,24 @@
+/*    HTTP Host:  static.ak.fbcdn.net                                          */
+/*    Generated:  March 25th 2009 9:41:28 AM PDT                               */
+/*      Machine:  10.16.139.104                                                */
+/*       Source:  Global Cache                                                 */
+/*     Location:  css/adz/feedback.css h:22izj97o                              */
+/*       Locale:  en_US                                                        */
+/*         Path:  css/adz/feedback.css                                         */
+
+
+.below_social_ad .ads_feedback{float:left;padding:0px 1px 0px 7px;}
+#home_sponsor .ads_feedback{float:right;}
+.ads_feedback a{display:inline-block;height:14px;width:14px;vertical-align:middle;}
+.ads_feedback .thumbs_up{background:url(/images/ads_feedback/ads_feedback_sprite.gif) -30px -21px no-repeat;}
+.ads_feedback .thumbs_up:hover{background-position:-30px -4px;text-decoration:none;}
+.ads_feedback .thumbs_dn{background:url(/images/ads_feedback/ads_feedback_sprite.gif) -14px -19px no-repeat;}
+.ads_feedback .thumbs_dn:hover{background-position:-14px -2px;text-decoration:none;}
+.ads_feedback .next_ad{background:url(/images/ads_feedback/ads_feedback_sprite.gif) 0px -20px no-repeat;margin-left:1px;}
+.ads_feedback .next_ad:hover{background-position:0 -2px;text-decoration:none;}
+.ff2 .ads_feedback .thumbs_up,
+.ff2 .ads_feedback .thumbs_dn,
+.ff2 .ads_feedback .next_ad{display:-moz-inline-box;}
+
+
+#bootloader_css_adz_feedback_css { height: 42px; }
