@@ -1,0 +1,76 @@
+== ENGLISH == (Version francaise en fin de fichier)
+Create a database
+Import jjgfamil_main_clean.dump
+
+In phpbb_config table
+=> change value of "server_name" entry by your domain
+=> If your script is not on root level, adapt "script_path" value
+
+In ./www/forum/config.php
+=> Change DB & servers parameters
+
+On browser, go to root URL. Website should appears
+Go to home page, logon with "Admins" username and "niouf" password
+Go to "administration pannel > General administration > Configuration" (link is on the middle top, under "Le site / Le forum / Le chat")
+Adapt values (cookie server, administration email...)
+
+Most of the website should work now. 
+I found several file you can adapt in order to activate secondaries behaviours.
+
+In ./www/forum/config.php
+=> Change DB & servers parameters
+
+./www/delete_users.php
+Change webmaster email constant
+
+./www/more/view_concours.php
+Change webmaster email constant
+
+./www/index_sitemap.php
+Change Domain constant
+
+./www/robotstat/admin/config.php
+Change email constant and DB parameters
+
+./www/actu/mail_html.php
+Change webmaster email
+
+== FRENCH ==
+Créez une base de données
+Importez jjgfamil_main_clean.dump
+
+Dans la table phpbb_config :
+=> changer la valeur de "server_name" par votre nom de domaine
+=> Si votre script n'est pas à la racine, adaptez la valeur de "script_path"
+
+Dans ./www/forum/config.php
+=> Changez les paramètres database et serveurs
+
+Depuis votre navigateur, allez sur l'url racine du site. Le site devrait apparaitre.
+Allez sur l'accueil, identifiez vous avec le user "Admins" et le mot de passe "niouf"
+Rendez-vous sur "Panneau de configuration > Administration générale > Configuration" (le lien se trouve en haut, au milieu, en dessous de "Le site / Le forum / Le chat")
+Adaptez les valeurs (cookie server, administration email...)
+
+La majorité du site devrait à présent fonctionner.
+J'ai trouvé différents fichiers que vous pouvez adapter pour activer des fonctions secondaires.
+
+In ./www/forum/config.php
+=> Change DB & servers parameters
+
+./www/delete_users.php
+Change webmaster email constant
+
+./www/more/view_concours.php
+Change webmaster email constant
+
+./www/index_sitemap.php
+Change Domain constant
+
+./www/robotstat/admin/config.php
+Change email constant and DB parameters
+
+./www/actu/mail_html.php
+Change webmaster email
+
+
+
